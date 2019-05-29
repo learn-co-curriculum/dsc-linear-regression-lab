@@ -18,7 +18,7 @@ You will be able to:
 
 To start, perform a train-test split and create an initial regression model to model the `list_price` using all of your available features.
 
-> **Note:** In order to write the model you'll have to do some tedious manipulation of your column names. Statsmodels will not allow you to have spaces, apostorphe or arithmetic symbols (+) in your column names. Preview them and refine them as you go.  
+> **Note:** In order to write the model you'll have to do some tedious manipulation of your column names. Statsmodels will not allow you to have spaces, apostrophe or arithmetic symbols (+) in your column names. Preview them and refine them as you go.  
 **If you receive an error such as "PatsyError: error tokenizing input (maybe an unclosed string?)" then you need to further preprocess your column names.**
 
 
@@ -2184,7 +2184,7 @@ fig = sm.graphics.qqplot(model.resid, dist=stats.norm, line='45', fit=True)
 ```
 
 
-![png](index_files/index_27_0.png)
+![png](index_files/index_24_0.png)
 
 
 ## Check Homoscedasticity Assumption
@@ -2205,7 +2205,7 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 
 
 
-![png](index_files/index_29_1.png)
+![png](index_files/index_26_1.png)
 
 
 > **Comment:** This displays a fairly pronounced 'funnel' shape: errors appear to increase as the list_price increases. This doesn't bode well for our model. Subsetting the data to remove outliers and confiding the model to this restricted domain may be necessary. A log transformation or something equivalent may also be appropriate.
@@ -2229,7 +2229,7 @@ df.list_price.hist()
 
 
 
-![png](index_files/index_33_1.png)
+![png](index_files/index_28_1.png)
 
 
 
@@ -2506,7 +2506,7 @@ fig = sm.graphics.qqplot(model.resid, dist=stats.norm, line='45', fit=True)
 ```
 
 
-![png](index_files/index_38_0.png)
+![png](index_files/index_33_0.png)
 
 
 > **Comment:** Much, much better!
@@ -2527,7 +2527,7 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 
 
 
-![png](index_files/index_41_1.png)
+![png](index_files/index_36_1.png)
 
 
 >**Comment:**There is still a clear underestimate now by the model as the log transformed list price increases, but the model is much improved. Further subsetting is potentially warranted.
@@ -2573,7 +2573,7 @@ df.list_price.hist()
 
 
 
-![png](index_files/index_44_2.png)
+![png](index_files/index_39_2.png)
 
 
 
@@ -2813,7 +2813,7 @@ fig = sm.graphics.qqplot(model.resid, dist=stats.norm, line='45', fit=True)
 ```
 
 
-![png](index_files/index_47_0.png)
+![png](index_files/index_42_0.png)
 
 
 ## Check Homoscedasticity Assumption
@@ -2832,7 +2832,7 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 
 
 
-![png](index_files/index_49_1.png)
+![png](index_files/index_44_1.png)
 
 
 > **Comment:** No improvement observed.
@@ -2927,7 +2927,7 @@ fig = sm.graphics.qqplot(model.resid, dist=stats.norm, line='45', fit=True)
 ```
 
 
-![png](index_files/index_56_0.png)
+![png](index_files/index_51_0.png)
 
 
 ## Check Homoscedasticity Assumption
@@ -2946,7 +2946,7 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 
 
 
-![png](index_files/index_58_1.png)
+![png](index_files/index_53_1.png)
 
 
 > **Comment:** Certainly not as strong a model, but with only 2 features, over half the model performance was recovered. 
