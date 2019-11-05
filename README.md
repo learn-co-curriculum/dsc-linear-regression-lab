@@ -3,16 +3,14 @@
 
 ## Introduction 
 
-In this lab you'll perform a full linear regression on the data. You'll implement the process demonstrated in the previous lesson, taking a stepwise approach to analyze and improve the model along the way.
+In this lab you'll perform a full linear regression analysis on the data. You'll implement the process demonstrated in the previous lesson, taking a stepwise approach to analyze and improve the model along the way.
 
 ## Objectives
 You will be able to:
 
-* Remove predictors with p-values too high and refit the model
-* Examine and interpret the model results
-* Split data into training and test sets
-* Fit a regression model to the dataset using the `statsmodels` library
-
+* Perform a full linear regression with iterations based on p-value of features and other parameters
+* Create visualizations to better understand the distributions of variables in a dataset
+* Determine whether or not the assumptions for linear regression hold true for this example
 
 ## Build an Initial Regression Model
 
@@ -2228,7 +2226,7 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 ![png](index_files/index_26_1.png)
 
 
-> **Comment:** This displays a fairly pronounced 'funnel' shape: errors appear to increase as the `list_price` increases. This doesn't bode well for our model. Subsetting the data to remove outliers and confiding the model to this restricted domain may be necessary. A log transformation or something equivalent may also be appropriate.
+> **Comment:** This displays a fairly pronounced 'funnel' shape: errors appear to increase as the `list_price` increases. This doesn't bode well for our model. Subsetting the data to remove outliers and confining the model to this restricted domain may be necessary. A log transformation or something equivalent may also be appropriate.
 
 ## Make Additional Refinements
 
@@ -2989,4 +2987,4 @@ plt.plot(model.predict(train[x_cols]), [0 for i in range(len(train))])
 
 ## Summary
 
-Well done! As you can see, regression can be a challenging task that requires you to make decisions along the way, try alternative approaches and make ongoing refinements. These choices depend on the context and specific use cases. 
+Well done! As you can see, regression can be a challenging task that requires you to make decisions along the way, try alternative approaches, and make ongoing refinements. These choices depend on the context and specific use cases. 
