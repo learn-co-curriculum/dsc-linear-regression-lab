@@ -1,0 +1,559 @@
+prod_id,set_name,prod_desc,theme_name,piece_count,min_age,max_age,difficulty_level,num_reviews,star_rating,list_price
+60123,Volcano Supply Helicopter,Fly in the exploration gear and fly out the crystals!,City,330,7.0,12.0,1,3.0,4.3,49.99
+71246,Adventure Time™ Team Pack,Explore the Land of Ooo with Jake and Lumpy Space Princess!,DIMENSIONS™,96,7.0,14.0,1,3.0,4.7,30.362
+10616,My First Playhouse,Learn about daily routines with this easy-to-build set!,DUPLO®,25,1.5,5.0,1,3.0,5.0,19.99
+31079,Sunshine Surfer Van,Enjoy seaside fun with the 3-in-1 Sunshine Surfer Van set!,Creator 3-in-1,379,8.0,12.0,1,5.0,4.4,34.99
+42057,Ultralight Helicopter,Take to the skies with the Ultralight Helicopter!,Technic,199,8.0,14.0,1,9.0,4.7,19.99
+42078,Mack Anthem,Discover innovative design with the Mack Anthem truck and trailer!,Technic,2595,11.0,16.0,2,22.0,4.7,179.99
+70905,The Batmobile,Pursue Man-Bat™ and the Kabuki Twins™ in the Batmobile with three driving modes!,THE LEGO® BATMAN MOVIE,581,8.0,14.0,2,20.0,4.8,59.99
+10879,Gentle Giants Petting Zoo,See the baby dinosaurs at the Jurassic World Gentle Giants Petting Zoo!,DUPLO®,24,2.0,5.0,2,1.0,5.0,19.99
+853638,THE LEGO® BATMAN MOVIE Batman™ Minifigure Collector Frame,Display THE LEGO® BATMAN MOVIE minifigures!,THE LEGO® BATMAN MOVIE,61,7.0,99.0,0,19.0,2.9,16.99
+21030,United States Capitol Building,Explore the architecture of the United States Capitol Building!,Architecture,1032,12.0,99.0,2,23.0,4.6,99.99
+75189,First Order Heavy Assault Walker™,Stride into battle with the First Order Heavy Assault Walker!,Star Wars™,1376,9.0,14.0,3,33.0,4.4,149.99
+70636,Zane - Spinjitzu Master,Create the coolest Spinjitzu tricks with the Ice Ninja!,NINJAGO®,69,6.0,14.0,2,,,9.99
+76055,Batman™: Killer Croc™ Sewer Smash,Bite back against Killer Croc™ with the Bat-Tank!,DC Comics™ Super Heroes,759,8.0,14.0,2,11.0,4.3,79.99
+75533,Boba Fett™,Join the hunt with Boba Fett!,Star Wars™,144,8.0,14.0,2,4.0,4.8,29.99
+70349,Ruina's Lock & Roller,Rescue the queen from Ruina’s Lock & Roller!,NEXO KNIGHTS™,208,8.0,14.0,2,2.0,4.5,19.99
+75530,Chewbacca™,Lead the charge with Chewbacca!,Star Wars™,179,8.0,14.0,2,5.0,3.6,34.99
+75159,Death Star™,Win the battle for the Empire with the awesome Death Star!,Star Wars™,4016,14.0,99.0,3,84.0,3.9,499.99
+10822,Sofia the First Magical Carriage,Join Sofia the First and ride along in her magical carriage!,DUPLO®,30,2.0,5.0,0,2.0,5.0,29.99
+75536,Range Trooper™,Stomp into action with the Range Trooper!,Star Wars™,101,7.0,14.0,1,2.0,5.0,24.99
+71346,The Powerpuff Girls™ Team Pack,"Sugar, spice and everything nice! Bring Townsville to life in the LEGO® DIMENSIONS™ multiverse with Blossom™ and Bubbles™!",DIMENSIONS™,93,7.0,14.0,2,,,24.99
+75928,Blue's Helicopter Pursuit,Rescue Blue the Velociraptor from Wheatley and the pilot!,Blue's Helicopter Pursuit,397,7.0,12.0,2,,,39.99
+75125,Resistance X-Wing Fighter™,Blast off on miniature X-Wing Fighter adventures!,Star Wars™,87,6.0,12.0,1,9.0,4.3,9.99
+75161,TIE Striker™ Microfighter,Engage the Rebels with the tough TIE Striker Microfighter!,Star Wars™,88,6.0,12.0,1,4.0,4.5,9.99
+42054,CLAAS XERION 5000 TRAC VC,Harness the awesome power of the CLAAS XERION 5000 TRAC VC,Technic,1977,11.0,16.0,3,18.0,4.8,179.99
+41312,Heartlake Sports Center,Stay fit and healthy at the Heartlake Sports Center!,Friends,328,6.0,12.0,2,3.0,4.7,39.99
+75883,MERCEDES AMG PETRONAS Formula One™ Team,Play every role of a top motor racing team on race day!,Speed Champions,941,8.0,14.0,2,8.0,4.6,99.99
+41234,Bumblebee™ Helicopter,Keep the crystals from the evil Kryptomites!,DC Super Hero Girls,142,7.0,12.0,2,2.0,4.0,14.99
+41328,Stephanie's Bedroom,Stephanie is always on the go… even at home in her bedroom!,Friends,95,6.0,12.0,1,2.0,5.0,9.99
+45501,EV3 Rechargeable DC Battery,,MINDSTORMS®,1,10.0,21.0,0,6.0,4.3,88.99
+76096,Superman™ & Krypto™ Team-Up,Help Superman™ bust out of the Kryptonite prison!,DC Comics™ Super Heroes,199,6.0,12.0,2,1.0,5.0,19.99
+75117,Kylo Ren™,Go on the hunt for Resistance forces with the fierce Kylo Ren™!,Star Wars™,86,8.0,14.0,1,12.0,4.5,24.99
+41155,Elsa's Market Adventure,Visit Arendelle Market with Elsa and Olaf!,Disney™,125,5.0,12.0,2,,,19.99
+45514,EV3 Cable Pack,,MINDSTORMS®,7,10.0,21.0,2,,,16.99
+41192,Azari & the Fire Lion Capture,Free the Guardian Fire Lion from the evil shadow bats’ chain!,Elves,360,8.0,12.0,2,2.0,4.0,29.99
+10756,Pteranodon Escape,Escape Jurassic Island before the Pteranadon attacks!,Juniors,84,4.0,7.0,2,,,19.99
+70592,Salvage M.E.C.,Match the Salvage M.E.C. vs. the Skulkin mech in a bounty-hunting duel!,NINJAGO®,439,8.0,14.0,2,6.0,4.8,39.99
+41303,Puppy Playground,Train for the big dog show with Sky the puppy!,Friends,62,5.0,12.0,2,1.0,5.0,4.99
+41194,Noctura's Tower & the Earth Fox Rescue,Rescue the captured Guardian Earth Fox from Noctura’s tower!,Elves,646,9.0,12.0,2,2.0,4.5,59.99
+75191,Jedi Starfighter™ With Hyperdrive,Play at warp speed with Obi-Wan’s Jedi Starfighter With Hyperdrive!,Star Wars™,825,9.0,14.0,2,15.0,4.7,99.99
+76079,Ravager Attack,Team up with Mantis and Rocket and fight back against Taserface!,Marvel Super Heroes,197,6.0,12.0,1,9.0,4.4,19.99
+72004,Tech Wizard Showdown,Suit up for a Tech Wizard Showdown with Clay’s 3-in-1 mech!,NEXO KNIGHTS™,506,8.0,14.0,2,3.0,5.0,39.99
+70357,Knighton Castle,Stand your ground and save the realm with the 2-in-1 Knighton Castle!,NEXO KNIGHTS™,1426,9.0,14.0,3,5.0,2.6,129.99
+75211,Imperial TIE Fighter™,Evade the mighty Imperial TIE Fighter!,Star Wars™,519,9.0,14.0,2,7.0,4.7,69.99
+45509,EV3 Infrared Sensor,,MINDSTORMS®,1,10.0,21.0,2,,,31.99
+41124,Heartlake Puppy Daycare,Look after Heartlake's coolest canines!,Friends,286,6.0,12.0,2,5.0,5.0,29.99
+10743,Smokey's Garage,Fix Disney•Pixar’s Lightning McQueen for his next exciting race!,Juniors,116,4.0,7.0,1,2.0,4.5,19.99
+41151,Mulan's Training Day,"Get in training with Disney Mulan, ready for the challenge ahead!",Disney™,104,5.0,12.0,2,1.0,5.0,14.99
+31066,Space Shuttle Explorer,Launch a satellite with the 3-in-1 Space Shuttle Explorer!,Creator 3-in-1,285,7.0,12.0,1,12.0,4.2,29.99
+41186,Azari & the Goblin Forest Escape,Escape the carnivorous plants with Azari and Firebolt!,Elves,145,7.0,12.0,2,2.0,5.0,19.99
+75821,Piggy Car Escape,Chase the piggy with lightning-fast Chuck and rescue the eggs!,Angry Birds™,74,6.0,12.0,1,11.0,4.3,12.99
+76102,Thor's Weapon Quest,Find Thor’s ultimate weapon!,Marvel Super Heroes,223,6.0,12.0,1,10.0,4.4,19.99
+21036,Arc de Triomphe,Experience the grandeur of the Arc de Triomphe!,Architecture,386,12.0,99.0,2,14.0,4.4,39.99
+76071,Mighty Micros: Spider-Man vs. Scorpion,Begin a battle of the bugs with Spider-Man and Scorpion!,Marvel Super Heroes,79,5.0,12.0,0,1.0,4.0,9.99
+60117,Van & Caravan,Pack up the gear; it’s time to go camping!,City,250,5.0,12.0,1,35.0,4.6,19.99
+41316,Andrea's Speedboat Transporter,Cruise in style to the hottest beach party in town!,Friends,309,6.0,12.0,1,1.0,5.0,29.99
+41333,Olivia's Mission Vehicle,Drive to the rescue in Heartlake City with Olivia and Zobo.,Friends,223,6.0,12.0,2,1.0,5.0,19.99
+70922,The Joker™ Manor,Dare to enter The Joker™ Manor!,THE LEGO® BATMAN MOVIE,3444,14.0,99.0,3,19.0,5.0,269.99
+42072,WHACK!,Get ready for high-speed action and impacts with the WHACK!,Technic,135,7.0,14.0,2,1.0,5.0,19.99
+10857,Piston Cup Race,Race Lightning McQueen and Jackson Storm for the Piston Cup!,DUPLO®,31,2.0,5.0,1,1.0,5.0,29.99
+76086,Knightcrawler Tunnel Attack,Fight for the Mother Box with Batman’s Knightcrawler!,DC Comics™ Super Heroes,622,7.0,14.0,2,6.0,5.0,49.99
+10843,Mickey Racer,Help Disney’s Mickey Mouse get his roadster ready for the next race!,DUPLO®,15,2.0,5.0,2,,,14.99
+75109,Obi-Wan Kenobi™,Use the Force to battle the Separatists with posable Obi-Wan Kenobi™!,Star Wars™,83,7.0,12.0,1,5.0,4.4,24.99
+42062,Container Yard,"Grab, lift, load and deliver at the Container Yard!",Technic,631,8.0,14.0,1,8.0,4.8,59.99
+10692,LEGO® Creative Bricks,Get creative with classic LEGO® bricks in 29 different colors!,Classic,221,4.0,99.0,1,7.0,4.1,16.99
+75828,Ecto-1 & 2,Speed after Mayhem with the LEGO® Ghostbusters™ Ecto-1 & 2 vehicles!,Ghostbusters™,556,8.0,14.0,2,24.0,4.8,59.99
+75827,Firehouse Headquarters,Get ready to bust some ghosts at the Firehouse Headquarters!,Ghostbusters™,4634,16.0,99.0,3,130.0,4.8,349.99
+41318,Heartlake Hospital,Look after the sick and injured people of Heartlake City!,Friends,871,7.0,12.0,2,4.0,4.8,99.99
+10809,Police Patrol,Stop the crook and lock him in the police van!,DUPLO®,15,2.0,5.0,1,1.0,4.0,14.99
+10260,Downtown Diner,Discover a place where music is on the menu!,Creator Expert,2480,16.0,99.0,3,62.0,4.6,169.99
+42071,Dozer Compactor,Call in the powerful Dozer Compactor!,Technic,171,8.0,14.0,3,2.0,5.0,19.99
+70372,Combo NEXO Powers Wave 1,Collect and combine the NEXO Powers to defeat Monstrox!,NEXO KNIGHTS™,10,7.0,14.0,0,8.0,3.4,3.99
+41335,Mia's Tree House,Climb up to the tree house and help Mia settle in!,Friends,351,6.0,12.0,3,2.0,5.0,29.99
+10742,Willy's Butte Speed Training,Smash the speed record with Disney•Pixar’s Lightning McQueen and Sheriff!,Juniors,95,4.0,7.0,1,2.0,3.0,19.99
+41340,Friendship House,Plot mission after mission together at the Friendship House!,Friends,722,6.0,12.0,2,7.0,4.1,69.99
+10869,Farm Adventures,Enjoy a visit to the adventure farm and feed the animals!,DUPLO®,104,2.0,5.0,2,,,59.99
+75537,Darth Maul™,Own a true Sith Lord with Darth Maul!,Star Wars™,104,8.0,14.0,2,,,29.99
+75878,Bugatti Chiron,Build and drive the ultimate hyper car!,Speed Champions,181,7.0,14.0,1,19.0,4.9,14.99
+31076,Daredevil Stunt Plane,Thrill the crowds with the 3-in-1 Daredevil Stunt Plane set!,Creator 3-in-1,200,7.0,12.0,2,1.0,5.0,19.99
+10832,Birthday Picnic,Play in the park and enjoy a fun birthday picnic!,DUPLO®,19,2.0,5.0,2,,,14.99
+10849,My First Plane,Watch little builders take flight with My First Plane!,DUPLO®,10,1.5,3.0,2,,,4.99
+42084,Hook Loader,Collect and transport heavy cargo with the Hook Loader!,Technic,176,7.0,14.0,1,2.0,4.5,14.99
+60177,Airshow Jet,Wow the crowds in the sleek Airshow Jet!,City,87,5.0,12.0,1,2.0,4.5,9.99
+10246,Detective’s Office,Discover hidden clues and surprises at the Detective's Office!,Creator Expert,2262,16.0,99.0,3,177.0,4.6,159.99
+71040,The Disney Castle,Welcome to the magical Disney Castle!,Disney™,4080,16.0,99.0,3,171.0,4.7,349.99
+7895,Switching Tracks,"Switch tracks – build a bigger, more exciting railway track.",City,8,5.0,12.0,0,47.0,4.1,15.99
+41150,Moana’s Ocean Voyage,Set sail with Moana to restore the heart of Te Fiti!,Disney™,307,6.0,12.0,1,3.0,4.7,39.99
+10597,Mickey & Minnie Birthday Parade,Celebrate your birthday with Mickey and Minnie!,DUPLO®,24,2.0,5.0,1,4.0,4.8,24.99
+41592,The Hulk,Have a smashing time with LEGO® BrickHeadz The Hulk!,BrickHeadz,93,10.0,99.0,1,8.0,4.6,9.99
+41314,Stephanie's House,Make cakes ready for a party at Stephanie’s House!,Friends,622,6.0,12.0,2,8.0,4.1,69.99
+41191,Naida & the Water Turtle Ambush,Help Naida defend the Guardian Water Turtle from the shadow bat!,Elves,205,7.0,12.0,2,2.0,5.0,19.99
+10707,Red Creativity Box,Unleash your imagination with the LEGO® Red Creativity Box!,Classic,55,4.0,99.0,2,4.0,4.5,4.99
+41326,LEGO® Friends Advent Calendar,Count down to Christmas with LEGO® Friends!,Friends,217,5.0,12.0,1,18.0,2.6,29.99
+45517,Transformer 10V DC,,MINDSTORMS®,1,8.0,99.0,0,2.0,4.0,29.99
+41231,Harley Quinn™ to the rescue,Save the super hero café from the evil Kryptomites!,DC Super Hero Girls,217,7.0,12.0,2,2.0,5.0,29.99
+10855,Cinderella´s Magical Castle,Dance with Cinderella and the Prince in the Magical Castle!,DUPLO®,56,2.0,5.0,2,,,34.99
+10805,Around the World,Go Around the World on LEGO® DUPLO® adventures!,DUPLO®,163,2.0,5.0,1,8.0,5.0,99.99
+70913,Scarecrow™ Fearful Face-off,Power into the sky to stop Scarecrow’s fear gas attacks!,THE LEGO® BATMAN MOVIE,141,6.0,12.0,1,7.0,4.1,14.99
+41610,Tactical Batman™ & Superman™,Join the Justice League™ with LEGO® BrickHeadz™ Tactical Batman™ and Superman™!,BrickHeadz,209,10.0,99.0,2,,,19.99
+70902,Catwoman™ Catcycle Chase,Stop Catwoman™ escaping with the diamonds!,THE LEGO® BATMAN MOVIE,139,7.0,14.0,1,27.0,4.5,19.99
+60140,Bulldozer Break-in,Protect the bank and stop the crooks!,City,561,5.0,12.0,1,9.0,3.3,69.99
+21122,The Nether Fortress,Battle the hostile mobs at The Nether Fortress!,Minecraft™,571,8.0,99.0,1,14.0,3.5,79.99
+75181,Y-Wing Starfighter™,Collect the ultimate long-range Rebel starfighter!,Star Wars™,1966,14.0,99.0,4,1.0,5.0,199.99
+40271,Easter Bunny,Hop to it with a LEGO® BrickHeadz™ Easter Bunny!,BrickHeadz,126,10.0,99.0,1,4.0,5.0,9.99
+75933,T. rex Transport,Help Zia round up the T. rex and save the day!,T. rex Transport,609,7.0,12.0,2,,,69.99
+41190,Emily Jones & the Eagle Getaway,Help Emily Jones find the lost diary page and outwit the shadow bat!,Elves,149,7.0,12.0,1,2.0,5.0,14.99
+75192,Millennium Falcon™,Travel the LEGO® galaxy in the ultimate Millennium Falcon!,Star Wars™,7541,16.0,99.0,3,197.0,4.8,799.99
+76080,Ayesha's Revenge,Team up to take on Ayesha and save the galaxy!,Marvel Super Heroes,323,7.0,14.0,2,12.0,4.8,29.99
+10606,Doc McStuffins™ Backyard Clinic,Help toys feel better in Doc McStuffins™’ Backyard Clinic!,DUPLO®,39,2.0,5.0,2,,,29.99
+10254,Winter Holiday Train,Climb aboard the magical Winter Holiday Train!,Creator Expert,734,12.0,99.0,2,77.0,4.3,99.99
+75154,TIE Striker™,Join the battle against the rebels!,Star Wars™,543,8.0,14.0,2,39.0,4.6,69.99
+60169,Cargo Terminal,Load up the truck and deliver the goods!,City,740,6.0,12.0,2,4.0,5.0,79.99
+71349,Beetlejuice™ Fun Pack,It’s showtime! Bring Beetlejuice™ to life in the LEGO® DIMENSIONS™ multiverse for an eerie adventure!,DIMENSIONS™,56,7.0,14.0,1,1.0,5.0,14.99
+75526,Elite TIE Fighter Pilot™,Fly into action with the Elite TIE Fighter Pilot!,Star Wars™,94,8.0,14.0,1,1.0,4.0,19.99
+42052,Heavy Lift Helicopter,Airlift massive loads with the Heavy Lift Helicopter!,Technic,1043,10.0,16.0,3,19.0,4.3,139.99
+72001,Lance's Hover Jouster,Wipe out the tech infection with Lance’s Hover Jouster!,NEXO KNIGHTS™,217,7.0,14.0,2,,,19.99
+75126,First Order Snowspeeder™,Speed across distant planets in the micro First Order Snowspeeder™!,Star Wars™,91,6.0,12.0,1,11.0,4.5,9.99
+70918,The Bat-Dune Buggy,Bring down Captain Boomerang™ with Batman’s Bat-Dune Buggy!,THE LEGO® BATMAN MOVIE,198,7.0,14.0,2,2.0,4.5,19.99
+10572,LEGO® DUPLO® All-in-One-Box-of-Fun,"Learn to discover, build and count with the All-In-One Box of Fun!",DUPLO®,65,1.5,5.0,0,4.0,5.0,29.99
+42076,Hovercraft,Transport supplies over land and sea with the all-terrain Hovercraft!,Technic,1020,9.0,16.0,2,5.0,4.2,89.99
+75095,TIE Fighter™,Presenting the Ultimate Collector Series TIE Fighter – the iconic Imperial starfighter!,Star Wars™,1685,14.0,99.0,2,94.0,4.7,199.99
+10247,Ferris Wheel,Experience the wonderful LEGO® Creator Ferris Wheel!,Creator Expert,2464,16.0,99.0,3,91.0,4.9,199.99
+75532,Scout Trooper™ & Speeder Bike™,Set out on speeder bike missions with the Scout Trooper!,Star Wars™,452,10.0,14.0,3,11.0,4.5,54.99
+70904,Clayface™ Splat Attack,Duel against the mighty Clayface™ with Batman™!,THE LEGO® BATMAN MOVIE,448,8.0,14.0,2,13.0,4.4,34.99
+10249,Winter Toy Shop,Enjoy the holiday season with the Winter Toy Shop!,Creator Expert,898,12.0,99.0,2,142.0,3.8,83.5924
+10844,Minnie Mouse Bow-tique,Build and run the store with Disney’s Minnie Mouse and Daisy Duck!,DUPLO®,70,2.0,5.0,2,,,39.99
+41143,Berry's Kitchen,Make a cake for Berry’s tea party!,Disney™,61,5.0,12.0,2,,,5.99
+10704,Creative Box,Imagine and create with LEGO® Classic bricks!,Classic,900,4.0,99.0,2,2.0,4.5,45.59240000000001
+42073,BASH!,Get ready for high-speed action and impacts with the BASH!,Technic,139,7.0,14.0,1,2.0,4.0,19.99
+60052,Cargo Train,Move heavy goods across LEGO® City with the Cargo Train!,City,888,6.0,12.0,2,35.0,4.4,199.99
+10693,LEGO® Creative Supplement,"Get ideas, get creative and get building!",Classic,303,4.0,99.0,1,8.0,4.9,19.99
+70634,Nya - Spinjitzu Master,"Build, rip and spin into action with Nya!",NINJAGO®,69,6.0,14.0,2,,,9.99
+75102,Poe's X-Wing Fighter™,Go on daring missions with Poe's X-Wing Fighter™!,Star Wars™,717,8.0,14.0,2,71.0,4.7,79.99
+41488,Master Wu,Learn the way of the ninja with LEGO® BrickHeadz Master Wu!,BrickHeadz,89,10.0,99.0,0,5.0,4.4,9.99
+41145,Ariel and the Magical Spell,Explore the secrets of the sea with Ariel and Flounder.,Disney™,222,5.0,12.0,2,2.0,5.0,29.99
+42037,Formula Off-Roader,Take on mountainous terrain with the LEGO® Technic Formula Off-Roader!,Technic,494,9.0,16.0,2,16.0,4.6,59.99
+41185,Magic Rescue from the Goblin Village,Explore the secret Goblin Village without getting caught!,Elves,637,7.0,12.0,2,3.0,5.0,59.99
+76067,Tanker Truck Takedown,Jump to the rescue and control the blaze with the Avengers and Spider-Man!,Marvel Super Heroes,330,6.0,12.0,1,14.0,4.8,29.99
+75926,Pteranodon Chase,Chase the Pteranodon and rescue it from danger!,Pteranodon Chase,126,6.0,12.0,1,1.0,4.0,19.99
+31056,Green Cruiser,Take an open-top drive in the cool 3-in-1 Green Cruiser!,Creator 3-in-1,122,6.0,12.0,1,6.0,4.5,9.99
+76029,Iron Man vs. Ultron,Take down the Ultron jet with super-jumping Iron Man!,Marvel Super Heroes,92,6.0,12.0,0,25.0,4.5,12.99
+21121,The Desert Outpost,Prepare for battle at The Desert Outpost!,Minecraft™,519,8.0,99.0,2,15.0,4.8,59.99
+41142,Palace Pets Royal Castle,Host a grand ball for all the Palace Pets!,Disney™,186,5.0,12.0,0,1.0,5.0,19.99
+10860,My First Race Car,Create racing role-play stories with the colorful car!,DUPLO®,6,1.5,3.0,2,,,4.99
+60178,Speed Record Car,Climb in the cockpit and set a new speed record!,City,78,5.0,12.0,1,1.0,5.0,9.99
+42074,Racing Yacht,Put the wind in your sails with this amazing Racing Yacht!,Technic,330,8.0,14.0,2,5.0,4.8,39.99
+10687,Spider-Man™ Hideout,Protect the Spider-Man™ Hideout against an aerial assault from Green Goblin!,Juniors,137,4.0,7.0,0,5.0,4.2,29.99
+21143,The Nether Portal,Board the minecart and journey through the Nether Portal!,Minecraft™,470,8.0,99.0,2,1.0,5.0,39.99
+10749,Mia's Organic Food Market,Pick up some tasty organic goodies from Mia and Twister!,Juniors,115,4.0,7.0,2,,,19.99
+60155,LEGO® City Advent Calendar,Celebrate 24 fun days with the LEGO® City Advent Calendar!,City,248,5.0,12.0,1,8.0,3.8,29.99
+10840,Big Fair,Enjoy a day of family fun at LEGO® DUPLO® Big Fair!,DUPLO®,106,2.0,5.0,1,1.0,5.0,79.99
+75528,Rey,Feel the Force with Rey!,Star Wars™,85,8.0,14.0,1,3.0,4.7,24.99
+10801,Baby Animals,Look after baby animals from all around the world!,DUPLO®,13,2.0,5.0,1,4.0,5.0,9.99
+41315,Heartlake Surf Shop,Get ready for a day of watersports action at the Surf Shop!,Friends,186,6.0,12.0,1,4.0,4.5,19.99
+31063,Beachside Vacation,Enjoy the beach life with the 3-in-1 Beachside Vacation!,Creator 3-in-1,275,7.0,12.0,2,5.0,4.2,29.99
+8293,LEGO® Power Functions Motor Set,Motorize your LEGO® Technic creations with the Power Functions Motor Set!,Power Functions,10,9.0,16.0,1,57.0,4.5,29.99
+41587,Robin™,Showcase the Boy Wonder with LEGO® BrickHeadz Robin™!,BrickHeadz,101,10.0,99.0,0,10.0,4.8,9.99
+70313,Moltor’s Lava Smasher,Smash Aaron Fox out of the way and capture the Book of Chaos!,NEXO KNIGHTS™,187,8.0,14.0,2,3.0,4.7,19.99
+75931,Dilophosaurus Outpost Attack,Defend the outpost from the terrifying Dilophosaurus!,Dilophosaurus Outpost Attack,289,7.0,12.0,1,1.0,4.0,39.99
+10848,My First Bricks,Develop creativity and building skills with a selection of basic bricks!,DUPLO®,80,1.5,3.0,2,,,30.3924
+70317,The Fortrex,Roll into action with the NEXO KNIGHTS™ 2-in-1 battle castle!,NEXO KNIGHTS™,1140,9.0,14.0,3,17.0,4.9,99.99
+75148,Encounter on Jakku™,Stop the thief at Unkar Plutt's market stall!,Star Wars™,530,8.0,14.0,2,24.0,3.6,59.99
+75060,Slave I,Lift off for bounty-hunting adventures in the Slave I!,Star Wars™,1996,14.0,99.0,3,201.0,4.8,199.99
+10590,Airport,Head off on your holidays with the LEGO® DUPLO® Airport!,DUPLO®,29,2.0,5.0,1,3.0,5.0,19.99
+60129,Police Patrol Boat,Keep the crook from escaping his boat ride to prison!,City,200,5.0,12.0,1,5.0,3.2,49.99
+71264,THE LEGO® BATMAN MOVIE Story Pack,Fight crime with Batgirl™ and Robin™ in THE LEGO® BATMAN MOVIE!,DIMENSIONS™,156,7.0,14.0,1,2.0,4.5,44.99
+31062,Robo Explorer,Have fun with the cute 3-in-1 Robo Explorer!,Creator 3-in-1,205,7.0,12.0,2,9.0,4.8,19.99
+60182,Pickup & Caravan,"Load up the Pickup & Caravan, it’s time for a vacation!",City,344,5.0,12.0,1,7.0,5.0,29.99
+31064,Island Adventures,Fly to warmer climes for 3-in-1 Island Adventures!,Creator 3-in-1,359,7.0,12.0,2,2.0,4.5,29.99
+41605,Thanos,Feel the power of Infinity with LEGO® BrickHeadz Thanos!,BrickHeadz,105,10.0,99.0,1,2.0,5.0,9.99
+10823,Batwing Adventure,Help Batman™ use the Batwing to retrieve the stolen treasure back from The Penguin!,DUPLO®,28,2.0,5.0,2,3.0,4.3,29.99
+21309,LEGO® NASA Apollo Saturn V,Build the first rocket to land people on the Moon!,Ideas,1969,14.0,99.0,3,367.0,4.9,119.99
+75183,Darth Vader™ Transformation,Bring Darth Vader to life at the medical bay!,Star Wars™,282,7.0,12.0,1,38.0,4.7,24.99
+70907,Killer Croc™ Tail-Gator,Speed after Killer Croc’s Tail-Gator on Batman’s Batski!,THE LEGO® BATMAN MOVIE,460,8.0,14.0,1,10.0,3.8,69.99
+75525,Baze Malbus™,Blast the enemy with tough Baze Malbus!,Star Wars™,148,9.0,14.0,0,1.0,5.0,24.99
+21032,Sydney,Celebrate Sydney with this LEGO® Architecture Skyline model!,Architecture,361,12.0,99.0,1,7.0,4.6,29.99
+10817,LEGO® DUPLO® Creative Chest,Get creative with LEGO® DUPLO® throughout the year!,DUPLO®,70,1.5,5.0,2,,,29.99
+75156,Krennic's Imperial Shuttle,Transport Director Krennic in his armor-plated shuttle!,Star Wars™,863,9.0,14.0,2,39.0,4.4,89.99
+21028,New York City,Celebrate New York City with this LEGO® Architecture Skyline model!,Architecture,598,12.0,99.0,2,37.0,4.2,59.99
+75160,U-Wing™ Microfighter,Enter miniature battle with the amazing U-Wing Microfighter!,Star Wars™,109,6.0,12.0,1,6.0,4.8,9.99
+10713,Creative Suitcase,Bring along a world of creativity in your own LEGO® Creative Suitcase!,Classic,213,4.0,99.0,0,2.0,5.0,19.99
+60136,Police Starter Set,Stop the crooks before they empty the ATM!,City,80,5.0,12.0,1,8.0,4.6,9.99
+41134,Heartlake Performance School,"Learn to sing, dance and play with friends in Heartlake City!",Friends,774,7.0,12.0,1,5.0,2.8,79.99
+75531,Stormtrooper™ Commander,Join the battle with the 2-in-1 Stormtrooper Commander!,Star Wars™,100,7.0,14.0,0,3.0,4.0,24.99
+76069,Mighty Micros: Batman™ vs. Killer Moth™,Fly Batman™ into battle against Killer Moth™!,DC Comics™ Super Heroes,83,5.0,12.0,1,1.0,5.0,9.99
+41609,Chewbacca™,Growl like a Wookiee with a LEGO® BrickHeadz™ construction character featuring Chewbacca!,BrickHeadz,149,10.0,99.0,0,1.0,3.0,9.99
+70609,Manta Ray Bomber,Protect NINJAGO® City from flying Manta Ray Bomber attack!,THE LEGO® NINJAGO® MOVIE™,341,7.0,14.0,1,6.0,4.3,29.99
+76075,Wonder Woman™ Warrior Battle,Help Wonder Woman™ defeat the villainous Ares™!,DC Comics™ Super Heroes,286,6.0,12.0,1,7.0,4.7,29.99
+41334,Andrea's Park Performance,Put on a show in the park with Andrea and Pepper!,Friends,229,6.0,12.0,2,1.0,5.0,24.99
+10725,Lost Temple,Discover the Lost Temple and help Lloyd win the Sword of Fire!,Juniors,172,4.0,7.0,0,1.0,4.0,29.99
+60158,Jungle Cargo Helicopter,Fly into the jungle and explore the hidden temple!,City,201,6.0,12.0,2,5.0,4.4,19.99
+10242,MINI Cooper,Take this MINI Cooper for a nostalgic drive down memory lane!,Creator Expert,1077,16.0,99.0,2,134.0,4.7,99.99
+41193,Aira & the Song of the Wind Dragon,Join forces with Aira and Lumia to protect the Wind Dragon!,Elves,451,8.0,12.0,2,2.0,5.0,39.99
+70607,NINJAGO® City Chase,Stop a crime in the NINJAGO® City street market!,THE LEGO® NINJAGO® MOVIE™,233,7.0,14.0,1,18.0,4.6,19.99
+70613,Garma Mecha Man,Defend NINJAGO® City against Garma Mecha Man!,THE LEGO® NINJAGO® MOVIE™,747,8.0,14.0,2,8.0,4.5,59.99
+42036,Street Motorcycle,Take to the open road with the LEGO® Technic Street Motorcycle!,Technic,375,9.0,16.0,2,15.0,4.9,39.99
+70350,The Three Brothers,Charge Axl into battle against the three fearsome brothers!,NEXO KNIGHTS™,266,8.0,14.0,2,1.0,4.0,29.99
+71266,LEGO® City Fun Pack,Help stop crime in the LEGO® DIMENSIONS™ multiverse with LEGO® City’s Fun Pack,DIMENSIONS™,46,7.0,14.0,2,2.0,5.0,14.99
+41188,Breakout from the Goblin King's Fortress,Stop the Goblin King’s evil plan and rescue Emily Jones’ sister!,Elves,695,8.0,12.0,2,1.0,5.0,69.99
+76073,Mighty Micros: Wolverine vs. Magneto,Take a swipe at Magneto with the mighty Wolverine!,Marvel Super Heroes,85,5.0,12.0,1,4.0,4.0,9.99
+21119,The Dungeon,Enter the zombie-spawning dungeon at your peril!,Minecraft™,219,8.0,99.0,2,16.0,3.4,19.99
+60163,Coast Guard Starter Set,Rescue the surfer and be a coast guard hero!,City,76,5.0,12.0,0,4.0,5.0,9.99
+70615,Fire Mech,Put the heat on the shark army with Kai’s Fire Mech!,THE LEGO® NINJAGO® MOVIE™,944,9.0,14.0,2,19.0,4.2,69.99
+60176,Wild River Escape,Speed after the crook on an exciting river chase!,City,126,5.0,12.0,1,1.0,5.0,19.99
+75208,Yoda's Hut,Train with Luke at Yoda’s Dagobah hideout!,Star Wars™,229,7.0,12.0,1,5.0,4.4,29.99
+41317,Sunshine Catamaran,Jump aboard the luxury Sunshine Catamaran with friends!,Friends,603,7.0,12.0,3,2.0,4.5,69.99
+60148,ATV Race Team,Gear up for the big race!,City,239,5.0,12.0,1,12.0,4.8,19.99
+41320,Heartlake Frozen Yogurt Shop,Chill out with frozen yogurt at Heartlake’s coolest hangout!,Friends,370,6.0,12.0,2,,,39.99
+70633,Kai - Spinjitzu Master,Master Spinjitzu with the Red Ninja!,NINJAGO®,61,6.0,14.0,2,,,9.99
+41332,Emma's Art Stand,Spend a day painting in the park with Emma and Chico!,Friends,210,6.0,12.0,2,,,19.99
+75131,Resistance Trooper Battle Pack,Speed into battle against the First Order forces!,Star Wars™,112,6.0,12.0,0,16.0,4.5,12.99
+10747,Andrea & Stephanie's Beach Holiday,Have fun at the seaside with Stephanie and Andrea!,Juniors,143,4.0,7.0,2,1.0,5.0,29.99
+70903,The Riddler™ Riddle Racer,Battle with Batman™ against The Riddler™ and his allies!,THE LEGO® BATMAN MOVIE,254,7.0,14.0,1,18.0,4.2,29.99
+75888,Porsche 911 RSR and 911 Turbo 3.0,Stage a historic Porsche race!,Speed Champions,391,7.0,14.0,2,4.0,4.8,29.99
+76078,Hulk vs. Red Hulk,Get ready for a clash of the Hulks!,Marvel Super Heroes,375,7.0,14.0,1,7.0,3.7,59.99
+75167,Bounty Hunter Speeder Bike™ Battle Pack,Go bounty hunting with the super-fast speeder bike!,Star Wars™,125,6.0,12.0,0,40.0,4.7,14.99
+60164,Sea Rescue Plane,Fly in and save the stranded sailor before he floats away!,City,141,5.0,12.0,1,3.0,4.3,19.99
+76103,Corvus Glaive Thresher Attack,Repel Corvus Glaive’s thresher attack on the Wakandan wall!,Marvel Super Heroes,416,7.0,14.0,2,3.0,4.0,39.99
+10694,LEGO® Creative Supplement Bright,Build whatever your heart desires with LEGO® bricks in 20 different bright colors!,Classic,303,4.0,99.0,1,6.0,4.5,19.99
+40388,Mini-Doll Dress-Up Kit,Create beautiful mini-doll outfits!,Disney™,80,6.0,99.0,1,1.0,5.0,9.99
+60159,Jungle Halftrack Mission,Defend the mission and dodge a surprise in the jungle!,City,378,6.0,12.0,1,5.0,4.8,39.99
+10733,Mater's Junkyard,Take a break at the junkyard with Disney•Pixar’s Mater and his video screen!,Juniors,62,4.0,7.0,1,3.0,4.7,9.99
+21034,London,Celebrate London with this LEGO® Architecture Skyline model!,Architecture,468,12.0,99.0,2,23.0,4.7,39.99
+70917,The Ultimate Batmobile,Divide the 4-in-1 Ultimate Batmobile and conquer the Super-Villains!,THE LEGO® BATMAN MOVIE,1456,10.0,16.0,2,18.0,4.6,139.99
+10696,LEGO® Medium Creative Brick Box,Create your own LEGO® vehicles with LEGO Classic!,Classic,484,4.0,99.0,1,11.0,4.6,34.99
+75174,Desert Skiff Escape,Avoid the deadly Sarlacc pit!,Star Wars™,277,7.0,12.0,1,27.0,4.6,29.99
+70361,Macy's Bot Drop Dragon,Engage the Stone stomper with Macy’s Bot Drop Dragon!,NEXO KNIGHTS™,153,7.0,14.0,2,,,14.99
+71242,Ghostbusters™ Story Pack,Get spooky with Abby Yates and the Ghostbusters™!,DIMENSIONS™,259,7.0,14.0,2,5.0,4.2,49.99
+10698,LEGO® Large Creative Brick Box,"Create all kinds of buildings with LEGO® bricks, windows and doors!",Classic,790,4.0,99.0,1,4.0,5.0,59.99
+10760,Underminer Bank Heist,Defend Metroville’s bank vault from the Underminer!,Juniors,149,4.0,7.0,2,,,24.99
+75885,Ford Fiesta M-Sport WRC,Drive the Fiesta M-Sport WRC to victory!,Speed Champions,203,7.0,14.0,2,13.0,4.5,14.99
+41590,Iron Man,Stand your ground with your own LEGO® BrickHeadz Iron Man!,BrickHeadz,96,10.0,99.0,1,8.0,4.9,9.99
+71234,Sensei Wu Fun Pack,Become one with Spinjitzu Master Sensei Wu!,DIMENSIONS™,58,7.0,14.0,1,2.0,4.5,18.962
+76025,Green Lantern vs. Sinestro,Zoom into orbit and recover Green Lantern’s lantern!,DC Comics™ Super Heroes,174,6.0,12.0,1,32.0,4.8,19.99
+75169,Duel on Naboo™,Battle it out at the generator core!,Star Wars™,208,7.0,12.0,1,32.0,4.4,24.99
+41187,Rosalyn's Healing Hideout,Heal the baby dragon and transform a goblin from bad to good!,Elves,460,8.0,12.0,2,6.0,4.3,49.99
+41300,Puppy Championship,Help Mia’s cute pups win the Championship!,Friends,185,5.0,12.0,2,,,19.99
+60179,Ambulance Helicopter,Transport the mountain snowboarder to the hospital!,City,190,5.0,12.0,1,6.0,3.8,19.99
+10592,Fire Truck,Rush to save the burning building in the LEGO® DUPLO® Fire Truck!,DUPLO®,26,2.0,5.0,0,2.0,5.0,24.99
+31049,Twin Spin Helicopter,Conquer ice and snow with the 3-in-1 Twin Spin Helicopter!,Creator 3-in-1,326,8.0,12.0,2,4.0,5.0,29.99
+75173,Luke's Landspeeder™,Go in search of Ben Kenobi in Luke’s Landspeeder!,Star Wars™,149,7.0,12.0,1,27.0,4.5,19.99
+10859,My First Ladybug,"Create, learn and play with the little ladybug!",DUPLO®,6,1.5,3.0,2,,,4.99
+70322,Axl's Tower Carrier,Protect the spell book from Burnzie in Axl's Tower Carrier!,NEXO KNIGHTS™,670,8.0,14.0,2,3.0,5.0,69.99
+60150,Pizza Van,Order a pizza to go!,City,249,5.0,12.0,1,35.0,4.9,19.99
+70901,Mr. Freeze™ Ice Attack,Protect the power plant from Mr. Freeze’s ice attack!,THE LEGO® BATMAN MOVIE,201,7.0,14.0,1,19.0,4.6,19.99
+10734,Demolition Site,Tear it down and build it again!,Juniors,175,4.0,7.0,2,2.0,5.0,29.99
+31060,Airshow Aces,Take the 3-in-1 Airshow Aces to town!,Creator 3-in-1,246,7.0,12.0,2,,,19.99
+10740,Fire Patrol Suitcase,Help the firefighters battle the blaze!,Juniors,110,4.0,7.0,1,1.0,4.0,19.99
+41593,Captain Jack Sparrow,Treasure your own LEGO® BrickHeadz construction character featuring Disney’s Captain Jack Sparrow!,BrickHeadz,109,10.0,99.0,1,9.0,4.8,9.99
+60160,Jungle Mobile Lab,Watch your step while you explore new things in the jungle!,City,426,7.0,12.0,2,3.0,5.0,59.99
+21130,The Nether Railway,Ride The Nether Railway!,Minecraft™,387,8.0,99.0,1,6.0,4.7,29.99
+41233,Lashina™ Tank,Rescue Krypto™ from Lashina’s clutches!,DC Super Hero Girls,145,7.0,12.0,2,2.0,4.0,14.99
+76060,Doctor Strange's Sanctum Sanctorum,Banish the portal beast from Doctor Strange’s Sanctum Sanctorum!,Marvel Super Heroes,358,7.0,14.0,2,15.0,4.5,29.99
+10865,Fun Creations,Imagine and create with this great-value set of colorful bricks!,DUPLO®,70,1.5,5.0,2,,,29.99
+60101,Airport Cargo Plane,Load up the Cargo Plane and get ready to fly!,City,157,5.0,12.0,1,13.0,4.6,24.99
+70638,Katana V11,Pursue Luke Cunningham with Kai’s Katana V11!,NINJAGO®,257,7.0,14.0,2,3.0,5.0,19.99
+75194,First Order TIE Fighter™ Microfighter,Take on the Resistance in a micro-scale TIE Fighter!,Star Wars™,91,6.0,12.0,1,3.0,4.3,9.99
+70910,Scarecrow™ Special Delivery,Help Batman™ to stop Scarecrow™ delivering a special scare pizza!,THE LEGO® BATMAN MOVIE,204,7.0,14.0,2,8.0,4.4,19.99
+42075,First Responder,Explore iconic vehicle design with the First Responder!,Technic,513,9.0,16.0,1,1.0,5.0,49.99
+10255,Assembly Square,Celebrate ten years of Modular Building with the Assembly Square!,Creator Expert,4002,16.0,99.0,3,99.0,4.8,279.99
+71232,LEGO® DIMENSIONS™ Eris Fun Pack,Team up with LEGO® Chima’s™ Eris to outsmart the competition!,DIMENSIONS™,59,7.0,14.0,2,4.0,3.8,11.99
+60153,People pack – Fun at the beach,Pack your city with a bunch of new people!,City,169,5.0,12.0,0,10.0,4.1,39.99
+21035,Solomon R. Guggenheim Museum®,Recreate the Solomon R. Guggenheim Museum® with LEGO® Architecture!,Architecture,744,12.0,99.0,3,14.0,4.6,79.99
+70637,Cole - Spinjitzu Master,Master the art of Spinjitzu with the Black Ninja!,NINJAGO®,73,6.0,14.0,1,2.0,5.0,9.99
+41322,Snow Resort Ice Rink,Glide across the ice and show off your skills!,Friends,307,6.0,12.0,2,2.0,4.5,29.99
+10854,LEGO® DUPLO® Creative Box,Imagine and create with this big box of colorful bricks!,DUPLO®,120,2.0,5.0,2,,,45.59240000000001
+41230,Batgirl™ Batjet Chase,Recover Batgirl’s ePad from the evil Kryptomite™!,DC Super Hero Girls,206,7.0,12.0,1,4.0,4.5,24.99
+60156,Jungle Buggy,Explore the depths of the jungle and find something amazing!,City,53,5.0,12.0,1,5.0,3.6,6.99
+21142,The Polar Igloo,Set up base at the Polar Igloo!,Minecraft™,278,8.0,99.0,2,,,29.99
+45502,EV3 Large Servo Motor,,MINDSTORMS®,1,10.0,21.0,2,2.0,5.0,26.99
+60124,Volcano Exploration Base,Get busy with some serious scientific work!,City,824,8.0,12.0,2,9.0,4.6,119.99
+41586,Batgirl™,Channel Batgirl™ with your own LEGO® BrickHeadz version!,BrickHeadz,99,10.0,99.0,1,9.0,4.3,9.99
+42063,BMW R 1200 GS Adventure,Experience the BMW R 1200 GS Adventure!,Technic,603,10.0,16.0,2,12.0,4.7,59.99
+70908,The Scuttler,Save the day with Batman™ and The Scuttler!,THE LEGO® BATMAN MOVIE,775,9.0,14.0,2,15.0,4.7,79.99
+75524,Chirrut Îmwe™,Jump into action with warrior monk Chirrut Îmwe!,Star Wars™,87,8.0,14.0,1,1.0,4.0,24.99
+10852,My First Bird,Watch budding builders take flight with this colorful parrot!,DUPLO®,7,1.5,3.0,0,2.0,5.0,4.99
+41613,Mr. Incredible & Frozone,Join Mr. Incredible and Frozone for LEGO® BrickHeadz™ crime-fighting fun!,BrickHeadz,160,10.0,99.0,0,1.0,5.0,19.99
+60188,Mining Experts Site,Head to the LEGO® City mine and dig up some gold!,City,883,7.0,12.0,2,1.0,5.0,99.99
+76072,Mighty Micros: Iron Man vs. Thanos,Thrust Iron Man into battle against evil Thanos!,Marvel Super Heroes,94,5.0,12.0,0,10.0,4.4,9.99
+71287,Teen Titans Go!™ Fun Pack,Get ready to save the day in the LEGO® DIMENSIONS™ multiverse with Starfire in the Teen Titans Go!™ Fun Pack!,DIMENSIONS™,56,7.0,14.0,2,,,14.99
+75887,Porsche 919 Hybrid,Race to win a 24-hour race with the Porsche 919 Hybrid!,Speed Champions,163,7.0,14.0,1,3.0,5.0,14.99
+10753,The Joker™ Batcave Attack,Swoop in with Batman™ and take on the Joker™!,Juniors,151,4.0,7.0,1,1.0,5.0,24.99
+70611,Water Strider,Smash the shark army out of the water with the Water Strider!,THE LEGO® NINJAGO® MOVIE™,494,8.0,14.0,2,21.0,4.5,29.99
+10507,My First Train Set,Hop aboard My First Train Set for beginning builder fun!,DUPLO®,52,2.0,5.0,1,11.0,4.7,44.99
+10737,Batman™ vs. Mr. Freeze™,Battle Mr. Freeze™ with Batman™ and his Batboat on the Gotham City Sea!,Juniors,63,4.0,7.0,1,2.0,4.5,14.99
+10861,My First Emotions,Explore different emotions with these buildable characters.,DUPLO®,28,1.5,3.0,2,,,19.99
+31029,Cargo Heli,Airlift vital supplies with the awesome 3-in-1 Cargo Heli!,Creator 3-in-1,132,6.0,12.0,2,4.0,4.8,9.99
+41599,Wonder Woman™,Stand tall with LEGO® BrickHeadz Wonder Woman™!,BrickHeadz,143,10.0,99.0,1,5.0,5.0,9.99
+31058,Mighty Dinosaurs,Enjoy roaring adventures with the 3-in-1 Mighty Dinosaurs!,Creator 3-in-1,174,7.0,12.0,1,27.0,4.7,14.99
+31047,Propeller Plane,Take a flight in the cool 3-in-1 Propeller Plane!,Creator 3-in-1,230,7.0,12.0,2,7.0,4.9,19.99
+75929,Carnotaurus Gyrosphere Escape,Escape from the rampaging Carnotaurus!,Carnotaurus Gyrosphere Escape,577,7.0,12.0,2,1.0,5.0,79.99
+10243,Parisian Restaurant,Have an unforgettable evening at the amazing Parisian Restaurant!,Creator Expert,2469,16.0,99.0,3,202.0,4.9,159.99
+72002,Twinfector,Double the action with the 2-in-1 Twinfector!,NEXO KNIGHTS™,191,7.0,14.0,1,1.0,5.0,19.99
+76090,Mighty Micros: Star-Lord vs. Nebula,Help Star-Lord grab the stolen mixtape from Nebula!,Marvel Super Heroes,86,5.0,12.0,2,,,9.99
+10867,Farmers' Market,Buy fresh fruit and vegetables from the market stall!,DUPLO®,26,2.0,5.0,2,,,19.99
+75147,StarScavenger™,Join StarScavenger on dangerous salvage missions!,Star Wars™,558,8.0,14.0,1,12.0,3.6,49.99
+75163,Krennic's Imperial Shuttle™ Microfighter,Fly in style with Krennic’s miniature Imperial Shuttle!,Star Wars™,78,6.0,12.0,0,4.0,4.3,9.99
+75190,First Order Star Destroyer™,Command the fleet with the awesome First Order Star Destroyer!,Star Wars™,1416,9.0,14.0,2,31.0,4.8,159.99
+75165,Imperial Trooper Battle Pack,Track down those Rebels!,Star Wars™,112,6.0,12.0,1,36.0,4.0,14.99
+10715,Bricks on a Roll,Create a world in motion with Bricks on a Roll!,Classic,442,4.0,99.0,2,,,30.3924
+41181,Naida's Gondola & the Goblin Thief,Protect the crystals from the goblin thief!,Elves,67,7.0,12.0,1,3.0,5.0,9.99
+41329,Olivia's Deluxe Bedroom,Work on Olivia’s latest invention in her hi-tech bedroom!,Friends,163,6.0,12.0,1,1.0,4.0,14.99
+21029,Buckingham Palace,Recreate Buckingham Palace with LEGO® Architecture!,Architecture,780,12.0,99.0,2,24.0,4.7,49.99
+70618,Destiny's Bounty,Join the ninja aboard Wu’s flying ship!,THE LEGO® NINJAGO® MOVIE™,2295,9.0,14.0,3,52.0,4.9,159.99
+41239,Eclipso™ Dark Palace,Rescue The Flash™ from Eclipso’s evil plans!,DC Super Hero Girls,1078,9.0,12.0,2,,,99.99
+60168,Sailboat Rescue,Rescue the sailor off the rocks just in time!,City,195,5.0,12.0,2,,,29.99
+42049,Mine Loader,Call in the powerful Mine Loader!,Technic,476,9.0,16.0,2,9.0,4.3,49.99
+31072,Extreme Engines,Enter the racing world with the 3-in-1 Extreme Engines set!,Creator 3-in-1,109,6.0,12.0,2,,,9.99
+71218,LEGO® DIMENSIONS™ Gollum Fun Pack,Keep watch over the multiverse from the shadows with Gollum™ from The Lord of the Rings™!,DIMENSIONS™,39,7.0,14.0,1,3.0,4.3,11.99
+75179,Kylo Ren's TIE Fighter™,Speed into action with Kylo Ren’s TIE Fighter!,Star Wars™,630,8.0,14.0,2,22.0,4.6,79.99
+60138,High-speed Chase,Help Chase McCain and the police nab the crook!,City,294,5.0,12.0,2,14.0,4.2,39.99
+10708,Green Creativity Box,Unleash your imagination with the LEGO® Green Creativity Box!,Classic,66,4.0,99.0,1,5.0,4.8,4.99
+70365,Battle Suit Axl,Watch Axl become unstoppable on the battlefield!,NEXO KNIGHTS™,88,7.0,14.0,2,2.0,4.0,9.99
+45504,EV3 Ultrasonic Sensor,,MINDSTORMS®,1,10.0,99.0,3,4.0,3.5,31.99
+21129,The Mushroom Island,Discover The Mushroom Island!,Minecraft™,247,8.0,99.0,2,5.0,4.6,19.99
+31073,Mythical Creatures,Create a world of scary 3-in-1 Mythical Creatures!,Creator 3-in-1,223,7.0,12.0,1,5.0,4.4,14.99
+71019,THE LEGO® NINJAGO® MOVIE™,Bring the NINJAGO® world to life with LEGO® Minifigures!,Minifigures,8,5.0,99.0,0,22.0,4.3,3.99
+45507,EV3 Touch Sensor,,MINDSTORMS®,1,10.0,21.0,2,,,21.99
+75212,Kessel Run Millennium Falcon™,Jump to lightspeed in the Millennium Falcon!,Star Wars™,1413,9.0,14.0,2,4.0,4.0,169.99
+76098,Speed Force Freeze Pursuit,Pursue Reverse Flash™ and grab the Energy Infuser!,DC Comics™ Super Heroes,271,6.0,12.0,1,6.0,4.8,29.99
+70919,The Justice League™ Anniversary Party,Party on with Superman™ and friends!,THE LEGO® BATMAN MOVIE,267,7.0,14.0,1,5.0,3.2,29.99
+10838,Family Pets,Play all day with the cute LEGO® DUPLO® Family Pets!,DUPLO®,15,2.0,5.0,0,2.0,5.0,9.99
+42055,Bucket Wheel Excavator,Experience the huge Bucket Wheel Excavator!,Technic,3929,12.0,16.0,3,75.0,4.6,279.99
+40307,Castle Interior Kit,Decorate and customize your castle!,Disney™,115,6.0,99.0,1,1.0,5.0,9.99
+75168,Yoda's Jedi Starfighter™,Journey to the stars aboard Yoda’s starship!,Star Wars™,262,8.0,12.0,1,37.0,4.5,24.99
+60170,Off-Road Chase,Catch the crook before he escapes with the loot!,City,37,5.0,12.0,0,2.0,4.5,6.99
+10258,London Bus,All aboard the London Bus!,Creator Expert,1686,16.0,99.0,2,53.0,4.6,139.99
+75202,Defense of Crait™,Join the battle at the Resistance base!,Star Wars™,746,9.0,14.0,1,4.0,4.3,84.99
+41132,Heartlake Party Shop,Head to the Heartlake Party Shop for all your celebration supplies!,Friends,176,6.0,12.0,1,5.0,2.8,29.99
+72006,Axl's Rolling Arsenal,Deploy Axl's Rolling Arsenal for the biggest battles!,NEXO KNIGHTS™,604,8.0,14.0,3,3.0,4.0,59.99
+71020,THE LEGO® BATMAN MOVIE Series 2,Discover new heroes and villains in LEGO® Minifigures—THE LEGO BATMAN MOVIE Series 2.,Minifigures,8,5.0,99.0,0,13.0,4.8,3.99
+10836,Town Square,Explore the Town Square for endless fun and play opportunities!,DUPLO®,98,2.0,5.0,2,,,59.99
+70348,Lance's Twin Jouster,Hunt the Rogul with Lance’s four-in-one Twin Jouster!,NEXO KNIGHTS™,216,8.0,14.0,0,1.0,5.0,19.99
+75178,Jakku Quadjumper™,Escape Jakku in the powerful Quadjumper!,Star Wars™,457,8.0,14.0,1,12.0,4.3,49.99
+70914,Bane™ Toxic Truck Attack,Protect Gotham City from Bane’s toxic attacks!,THE LEGO® BATMAN MOVIE,366,8.0,14.0,2,6.0,4.0,49.99
+31071,Drone Explorer,Be an eye in the sky with the 3-in-1 Drone Explorer!,Creator 3-in-1,109,6.0,12.0,2,1.0,5.0,9.99
+60107,Fire Ladder Truck,Put out the burning oil barrel!,City,214,5.0,12.0,1,11.0,4.5,24.99
+41319,Snow Resort Hot Chocolate Van,Keep warm with delicious hot chocolate from the van!,Friends,246,6.0,12.0,1,3.0,4.0,24.99
+76068,Mighty Micros: Superman™ vs. Bizarro™,Stage a Kryptonite clash with Superman™ and Bizarro™!,DC Comics™ Super Heroes,93,5.0,12.0,1,3.0,4.7,9.99
+10739,Shark Attack,Help Kai and Lloyd save NINJAGO® City from Great White!,Juniors,108,4.0,7.0,1,2.0,4.5,19.99
+10808,Little Plane,"Safety check the LEGO® DUPLO® Little Plane, then head for the skies!",DUPLO®,13,2.0,5.0,0,1.0,5.0,9.99
+70359,Lance vs. lightning,Charge Lance into battle against the gargoyles!,NEXO KNIGHTS™,257,8.0,14.0,1,2.0,4.5,24.99
+10508,Deluxe Train Set,Take the rocks down the track with the Deluxe Train Set!,DUPLO®,134,2.0,5.0,2,22.0,4.1,109.99
+41606,Star-Lord,Be a legendary outlaw with LEGO® BrickHeadz Star-Lord!,BrickHeadz,113,10.0,99.0,1,1.0,5.0,9.99
+60122,Volcano Crawler,Bring out the heavy machinery to do exploring right!,City,324,6.0,12.0,2,4.0,5.0,39.99
+75171,Battle on Scarif,Uncover the Death Star plans at the beach bunker!,Star Wars™,419,8.0,14.0,1,19.0,3.8,49.99
+60134,Fun in the park - City People Pack,Fill up your city with people!,City,157,5.0,12.0,0,30.0,4.6,39.99
+60180,Monster Truck,Jump the fire and give the crowd a thrilling show!,City,192,6.0,12.0,2,4.0,5.0,19.99
+10726,Stephanie's Horse Carriage,Plan a day of riding with friends!,Juniors,58,4.0,7.0,0,2.0,3.0,12.99
+10748,Emma's Pet Party,Join Emma and her cat for a fun party in the park!,Juniors,67,4.0,7.0,0,2.0,5.0,9.99
+10851,My First Bus,Watch little bus drivers go places as they build and play!,DUPLO®,6,1.5,3.0,2,,,4.99
+31067,Modular Poolside Holiday,Play all day on a 3-in-1 Poolside Holiday!,Creator 3-in-1,356,7.0,12.0,2,8.0,4.6,29.99
+41330,Stephanie's Soccer Practice,Score goal after goal with Stephanie and Dash!,Friends,119,6.0,12.0,2,,,14.99
+41486,Captain Phasma™,Lead the First Order with a LEGO® BrickHeadz construction character featuring Captain Phasma™,BrickHeadz,127,10.0,99.0,0,3.0,4.7,9.99
+71247,Harry Potter™ Team Pack,Bring the Wizarding World to life with Harry and Voldemort!,DIMENSIONS™,119,7.0,14.0,1,4.0,5.0,30.362
+70920,Egghead™ Mech Food Fight,Join Batman™ in a comical food fight!,THE LEGO® BATMAN MOVIE,293,7.0,14.0,2,11.0,4.7,29.99
+31059,Sunset Street Bike,Take the 3-in-1 Sunset Street Bike for high-speed spin!,Creator 3-in-1,194,8.0,12.0,2,1.0,5.0,19.99
+75880,McLaren 720S,"Design, build and race an incredible McLaren supercar!",Speed Champions,161,7.0,14.0,1,10.0,4.9,14.99
+42031,Cherry Picker,Reach dizzying heights with the awesome LEGO® Technic Cherry Picker!,Technic,155,7.0,14.0,1,4.0,4.8,12.99
+10746,Mia's Farm Suitcase,It’s feeding time down at the animal farm!,Juniors,100,4.0,7.0,1,2.0,5.0,19.99
+10818,My First Truck,Learn to match pairs with LEGO® DUPLO® My First Truck!,DUPLO®,29,1.5,5.0,2,,,19.99
+60172,Dirt Road Pursuit,Race after the crook and avoid the mountain rockslide!,City,297,5.0,12.0,2,,,39.99
+70338,Ultimate General Magmar,Fire up Ultimate General Magmar to defeat the opponents!,NEXO KNIGHTS™,64,7.0,14.0,0,1.0,5.0,9.99
+10761,The Great Home Escape,Capture Brick before she knocks the house down!,Juniors,178,4.0,7.0,2,,,29.99
+71171,LEGO® DIMENSIONS™ PLAYSTATION® 4 Starter Pack,"With LEGO® Dimensions™, you're gonna need a bigger imagination!",DIMENSIONS™,267,7.0,14.0,2,6.0,4.3,89.99
+71344,Excalibur Batman™ Fun Pack,Fight crime in the night with the bold and brave Excalibur Batman™!,DIMENSIONS™,57,7.0,14.0,2,1.0,5.0,18.962
+21138,The Melon Farm,Grow and trade your crops at the Melon Farm!,Minecraft™,69,6.0,14.0,1,4.0,4.3,14.99
+41313,Heartlake Summer Pool,Enjoy swimming in the sunshine at the Heartlake Summer Pool!,Friends,589,6.0,12.0,1,6.0,4.5,49.99
+71235,Midway Arcade™ Level Pack,Go retro with the LEGO® DIMENSIONS™ Midway Arcade™ Level Pack!,DIMENSIONS™,96,7.0,14.0,2,11.0,3.2,24.99
+75881,2016 Ford GT & 1966 Ford GT40,Race your friends to win a 24-hour race!,Speed Champions,366,7.0,14.0,1,12.0,4.8,29.99
+75155,Rebel U-Wing Fighter™,Battle the Empire with the amazing Rebel U-Wing Fighter!,Star Wars™,659,8.0,14.0,2,56.0,4.6,79.99
+10731,Cruz Ramirez Race Simulator,Help Disney•Pixar’s Cruz Ramirez become the fastest race car around!,Juniors,59,4.0,7.0,1,3.0,5.0,9.99
+75209,Han Solo's Landspeeder™,Escape to safety with Han Solo’s Landspeeder!,Star Wars™,345,7.0,12.0,1,4.0,4.8,29.99
+41154,Cinderella's Dream Castle,Dine and dance at the Dream Castle with Disney Cinderella.,Disney™,585,6.0,12.0,3,3.0,4.3,69.99
+41302,Puppy Pampering,Get puppy Lara ready for her big dog show debut!,Friends,45,5.0,12.0,1,1.0,5.0,4.99
+42033,Record Breaker,Smash land speed records with the LEGO® Technic Record Breaker!,Technic,125,7.0,14.0,1,8.0,4.6,19.99
+41152,Sleeping Beauty's Fairytale Castle,Help Disney Aurora turn the spinning wheel in her Fairytale Castle!,Disney™,322,6.0,12.0,1,3.0,4.3,39.99
+75197,First Order Specialists Battle Pack,Advance on the Resistance with the First Order Specialists Battle Pack!,Star Wars™,108,6.0,12.0,0,15.0,4.1,14.99
+41602,Rey,Feel the Force with a LEGO® BrickHeadz construction character featuring Rey!,BrickHeadz,119,10.0,99.0,1,3.0,5.0,9.99
+75099,Rey's Speeder™,Speed into action on Rey's Speeder!™,Star Wars™,193,7.0,12.0,1,70.0,4.4,19.99
+10256,Taj Mahal,Discover the architectural wonder of the Taj Mahal!,Creator Expert,5923,16.0,99.0,3,43.0,4.8,369.99
+70642,Killow vs. Samurai X,Get weaponized for a dynamic Killow vs. Samurai X duel!,NINJAGO®,556,8.0,14.0,2,2.0,4.0,49.99
+31052,Vacation Getaways,Head for sunnier climes with the Vacation Getaways set!,Creator 3-in-1,792,9.0,14.0,2,23.0,4.9,91.1924
+75120,K-2SO™,Go behind enemy lines with K-2SO!,Star Wars™,169,9.0,14.0,1,12.0,4.1,24.99
+31057,Air Blazer,Perform cool maneuvers with the 3-in-1 Air Blazer!,Creator 3-in-1,102,6.0,12.0,1,1.0,4.0,9.99
+70629,Piranha Attack,Stop a Piranha Attack with Kai and Misako!,THE LEGO® NINJAGO® MOVIE™,217,7.0,14.0,1,8.0,3.6,19.99
+75177,First Order Heavy Scout Walker™,Stomp into battle with the First Order Heavy Scout Walker!,Star Wars™,554,9.0,14.0,3,9.0,4.0,49.99
+10868,Farm Pony Stable,Take care of the ponies at the Farm Pony Stable!,DUPLO®,59,2.0,5.0,2,,,29.99
+60184,Mining Team,Blow up the rock pile and discover gold!,City,82,5.0,12.0,0,2.0,5.0,9.99
+70612,Green Ninja Mech Dragon,Take on Garmadon with the Green Ninja Mech Dragon!,THE LEGO® NINJAGO® MOVIE™,544,8.0,14.0,2,29.0,4.7,49.99
+10862,My First Celebration,Throw a LEGO® DUPLO® celebration with these buildable cakes!,DUPLO®,41,1.5,3.0,2,,,14.99
+60167,Coast Guard Head Quarters,Sail the high seas and make a thrilling rescue!,City,792,6.0,12.0,2,3.0,3.7,119.99
+41310,Heartlake Gift Delivery,Drive the van to send special gifts all around Heartlake City!,Friends,185,6.0,12.0,1,1.0,4.0,19.99
+42064,Ocean Explorer,Discover new horizons with the Ocean Explorer!,Technic,1327,10.0,16.0,3,14.0,4.6,119.99
+75529,Elite Praetorian Guard,Protect the First Order with the Elite Praetorian Guard!,Star Wars™,92,8.0,14.0,1,7.0,4.7,24.99
+75184,LEGO® Star Wars™ Advent Calendar,Launch into the holidays with the LEGO® Star Wars Advent Calendar!,Star Wars™,309,6.0,14.0,1,26.0,3.2,39.99
+45508,EV3 Infrared Beacon,,MINDSTORMS®,1,10.0,99.0,2,3.0,5.0,31.99
+10735,Police Truck Chase,Catch the crook before he gets away!,Juniors,90,4.0,7.0,1,3.0,5.0,19.99
+70623,Destiny's Shadow,Glide across and above the swamp with Destiny's Shadow!,NINJAGO®,360,7.0,14.0,2,7.0,4.6,29.99
+60154,Bus Station,"Hop on, there’s so much to see with the LEGO® City bus!",City,337,5.0,12.0,1,16.0,3.3,49.99
+41598,The Flash™,Live life in the fast lane with LEGO® BrickHeadz The Flash™!,BrickHeadz,122,10.0,99.0,0,3.0,4.0,9.99
+76044,Clash of the Heroes,Get set for a Batman™ v Superman™ rooftop duel!,DC Comics™ Super Heroes,91,6.0,12.0,1,30.0,4.3,12.99
+10813,Big Construction Site,"Get busy with a bulldozer, tipper truck and posable crane!",DUPLO®,67,2.0,5.0,2,1.0,5.0,49.99
+10759,Elastigirl's Rooftop Pursuit,Grab the helicopter and help Elastigirl save the city!,Juniors,95,4.0,7.0,2,,,19.99
+42039,24 Hours Race Car,Scream around the circuit in the lightning-fast LEGO® Technic 24 Hours Race Car!,Technic,1219,11.0,16.0,3,23.0,4.8,129.99
+41325,Heartlake City Playground,Have fun playing at Heartlake City Playground with Mia and Sienna!,Friends,326,6.0,12.0,3,3.0,3.7,39.99
+41487,Lloyd,Unleash your true ninja spirit with LEGO® BrickHeadz Lloyd!,BrickHeadz,102,10.0,99.0,1,7.0,5.0,9.99
+21039,Shanghai,Celebrate Shanghai with this LEGO® Architecture Skyline set!,Architecture,597,12.0,99.0,2,7.0,4.9,59.99
+71217,Zane Fun Pack,"Perfect your Spinjitzu skills with LEGO® NINJAGO™ Zane, the Ninja of Ice!",DIMENSIONS™,45,7.0,14.0,1,8.0,4.0,18.2878
+10878,Rapunzel´s Tower,Help Rapunzel groom Maximus and play out life in the tower.,DUPLO®,37,2.0,5.0,0,1.0,5.0,29.99
+41144,Petite's Royal Stable,Win the show jumping prize with Petite!,Disney™,75,5.0,12.0,2,,,9.99
+70352,Jestro's Headquarters,Help the heroic knights rescue Ava from Jestro’s head-shaped HQ!,NEXO KNIGHTS™,840,9.0,14.0,2,3.0,5.0,89.99
+10706,Blue Creativity Box,Unleash your imagination with the LEGO® Blue Creativity Box!,Classic,78,4.0,99.0,0,8.0,4.8,4.99
+70621,The Vermillion Attack,Battle the Vermillion to win the Fast Forward Time Blade!,NINJAGO®,83,6.0,14.0,1,7.0,4.7,9.99
+75932,Jurassic Park Velociraptor Chase,Play a game of hide and seek with the Velociraptor!,Jurassic Park Velociraptor Chase,360,6.0,12.0,2,4.0,5.0,39.99
+76089,Mighty Micros: Scarlet Spider vs. Sandman,Jet into a fun-packed Scarlet Spider vs. Sandman clash!,Marvel Super Heroes,89,5.0,12.0,2,,,9.99
+7281,T-Junction & Curved Road Plates,Roads for your LEGO® layout!,City,2,5.0,12.0,0,40.0,3.9,14.99
+21141,The Zombie Cave,Enter the Zombie Cave at your peril!,Minecraft™,241,7.0,14.0,2,2.0,5.0,19.99
+75930,Indoraptor Rampage at Lockwood Estate,Rescue Maisie from the Indoraptor at Lockwood Estate!,Indoraptor Rampage at Lockwood Estate,1019,8.0,12.0,1,2.0,5.0,129.99
+60166,Heavy-duty Rescue Helicopter,Perform a daring helicopter rescue before the shark gets too close!,City,415,6.0,12.0,3,8.0,4.4,59.99
+31069,Modular Family Villa,Build and enjoy the delightful 3-in-1 Family Villa!,Creator 3-in-1,728,8.0,12.0,2,11.0,3.4,69.99
+75187,BB-8™,Play with and display your own brick-built BB-8!,Star Wars™,1106,10.0,16.0,2,79.0,4.8,99.99
+76056,Batman™: Rescue from Ra's al Ghul™,Break out Robin™ from Ra's al Ghul's secret headquarters!,DC Comics™ Super Heroes,257,6.0,12.0,2,8.0,4.4,29.99
+10754,Spider-Man vs. Scorpion Street Showdown,Swing into action with Spider-Man and catch the Scorpion!,Juniors,125,4.0,7.0,2,1.0,4.0,19.99
+10833,Preschool,Play and learn all day long at the LEGO® DUPLO® Preschool!,DUPLO®,39,2.0,5.0,2,2.0,5.0,19.99
+70614,Lightning Jet,Speed to the rescue with Jay’s Lightning Jet!,THE LEGO® NINJAGO® MOVIE™,876,9.0,14.0,2,8.0,5.0,59.99
+60106,Fire Starter Set,Save the dockworker and put out the blaze!,City,90,5.0,12.0,1,11.0,4.1,9.99
+10214,Tower Bridge,Build London's famous Tower Bridge!,Creator Expert,4295,16.0,99.0,3,228.0,4.8,239.99
+21307,Caterham Seven 620R,Add quirky vehicle style to your shelf or desk!,Ideas,773,12.0,99.0,2,51.0,4.1,79.99
+41594,Captain Armando Salazar,Lead a LEGO® BrickHeadz ghost crew featuring Disney’s Captain Armando Salazar!,BrickHeadz,118,10.0,99.0,0,6.0,5.0,9.99
+70656,"garmadon, Garmadon, GARMADON!",Defend NINJAGO® City from Garmadon Shark Mech attack!,THE LEGO® NINJAGO® MOVIE™,830,9.0,14.0,2,9.0,4.9,79.99
+75111,Darth Vader™,Feel the power of the dark side with posable Darth Vader™!,Star Wars™,160,9.0,14.0,2,25.0,4.7,29.99
+41148,Elsa's Magical Ice Palace,Spend a day in the snow at Elsa’s Magical Ice Palace!,Disney™,701,6.0,12.0,2,5.0,4.0,79.99
+10700,Green Baseplate,Add another useful piece to your LEGO® collection with this Bright Green Baseplate!,Classic,1,4.0,99.0,0,46.0,2.6,7.99
+21313,Ship in a Bottle,"Designed by fan creator, Jake Sadovich, Idaho, USA.",Ideas,962,12.0,99.0,2,83.0,4.5,69.99
+75139,Battle on Takodana™,Defeat Kylo Ren at the forest castle!,Star Wars™,409,8.0,14.0,1,47.0,4.1,59.99
+76087,Flying Fox: Batmobile Airlift Attack,Unleash the Batmobile from The Flying Fox!,DC Comics™ Super Heroes,955,9.0,14.0,2,13.0,3.7,129.99
+76085,Battle of Atlantis,Protect the precious Mother Box from the evil Parademon™!,DC Comics™ Super Heroes,197,6.0,12.0,1,9.0,4.2,19.99
+10755,Zane's Ninja Boat Pursuit,Race against Chopper Maroon for the treasure map!,Juniors,131,4.0,7.0,2,,,19.99
+60110,Fire Station,Jump into action and save the hot dog stand… and lunch!,City,919,6.0,12.0,2,16.0,4.6,99.99
+75534,Darth Vader™,Join Darth Vader and battle to victory!,Star Wars™,168,9.0,14.0,2,6.0,5.0,39.99
+31313,LEGO® MINDSTORMS® EV3,Create and command robots that do what you want with LEGO® MINDSTORMS® EV3!,MINDSTORMS®,601,10.0,99.0,3,38.0,4.3,349.99
+21308,Adventure Time™,What time is it? It’s LEGO® Adventure Time™!,Ideas,496,9.0,99.0,1,23.0,3.3,49.99
+70321,General Magmar's Siege Machine of Doom,Tower over the enemy with the monstrous Siege Machine of Doom!,NEXO KNIGHTS™,516,8.0,14.0,3,2.0,5.0,49.99
+70617,Temple of The Ultimate Ultimate Weapon,Evade the traps inside the Temple!,THE LEGO® NINJAGO® MOVIE™,1403,9.0,14.0,2,15.0,4.8,99.99
+630,Brick Separator,Everyone needs one!,Classic,1,4.0,99.0,0,180.0,4.8,2.49
+10831,My First Caterpillar,Turn this colorful caterpillar into a beautiful butterfly!,DUPLO®,19,1.5,5.0,2,,,9.99
+45503,EV3 Medium Servo Motor,,MINDSTORMS®,1,10.0,21.0,1,1.0,5.0,21.99
+10858,My First Puzzle Pets,Learn about colors and pets with 3 fun puzzles!,DUPLO®,18,1.5,3.0,2,,,9.99
+70347,King's Guard Artillery,Stop the Stone stomper with the King’s Guard battle vehicle!,NEXO KNIGHTS™,98,7.0,14.0,2,1.0,4.0,9.99
+42066,Air Race Jet,Prepare for vertical takeoffs and landings with the Air Race Jet!,Technic,1151,10.0,16.0,3,7.0,4.9,159.99
+76088,Thor vs. Hulk: Arena Clash,Battle for freedom in the arena with Hulk and Thor!,Marvel Super Heroes,492,7.0,14.0,2,6.0,4.3,59.99
+60181,Forest Tractor,Load the freshly cut logs with the awesome Forest Tractor!,City,174,5.0,12.0,1,7.0,4.4,19.99
+10251,Brick Bank,Make a safe deposit at the Brick Bank!,Creator Expert,2382,16.0,99.0,3,115.0,4.7,169.99
+10846,Flo's Café,"Hang out with Lightning McQueen, Mack and Cruz Ramirez!",DUPLO®,28,2.0,5.0,1,3.0,5.0,39.99
+10863,My First Animal Brick Box,Make an animal train with these fun and colorful models.,DUPLO®,34,1.5,3.0,2,,,29.99
+60165,4 x 4 Response Unit,Race to the rescue on land and sea!,City,347,5.0,12.0,0,2.0,5.0,39.99
+31043,Chopper Transporter,,Creator 3-in-1,124,6.0,12.0,1,2.0,5.0,9.99
+10738,Snow White's Forest Cottage,Help Snow White choose a pie to bake for her animal friends!,Juniors,67,4.0,7.0,2,2.0,5.0,14.99
+10828,Doc McStuffins´ Pet Vet Care,The Doc is in…and now she's caring for pets too!,DUPLO®,30,2.0,5.0,2,,,24.99
+70336,Ultimate Axl,Knock out enemies with Ultimate Axl's gigantic fists!,NEXO KNIGHTS™,69,8.0,14.0,2,,,9.99
+75207,Imperial Patrol Battle Pack,Patrol the Empire and enforce the rule of law!,Star Wars™,99,6.0,12.0,0,4.0,5.0,14.99
+42045,Hydroplane Racer,Thunder over the ocean with the Hydroplane Racer!,Technic,180,8.0,14.0,1,5.0,4.8,19.99
+71267,Goonies™ Level Pack,Search for treasure while avoiding the Fratelli family in the Goonies™ Level Pack!,DIMENSIONS™,118,7.0,14.0,2,2.0,5.0,29.99
+60051,High-speed Passenger Train,Get around LEGO® City fast in the High-speed Passenger Train!,City,610,6.0,12.0,2,45.0,4.4,149.99
+70641,Ninja Nightcrawler,Shoot on the go with Lloyd’s Ninja Nightcrawler!,NINJAGO®,552,9.0,14.0,3,4.0,4.8,39.99
+41237,Batgirl™ Secret Bunker,Help Batgirl™ nab Mad Harriet™ and recover the microchip!,DC Super Hero Girls,351,7.0,12.0,2,1.0,5.0,44.99
+45505,EV3 Gyro Sensor,,MINDSTORMS®,1,10.0,21.0,2,,,31.99
+42053,Volvo EW160E,Operate the powerful Volvo EW160E!,Technic,1166,10.0,16.0,2,18.0,4.8,119.99
+75118,Captain Phasma™,Command the troops with Captain Phasma™!,Star Wars™,82,7.0,14.0,1,10.0,4.1,24.99
+31068,Modular Modern Home,Enjoy eco-friendly adventures with the 3-in-1 Modern Home!,Creator 3-in-1,386,8.0,12.0,2,10.0,3.8,29.99
+10703,Creative Builder Box,Create your ideas with LEGO® Classic bricks!,Classic,502,4.0,99.0,2,2.0,4.0,30.3924
+75879,Scuderia Ferrari SF16-H,Speed into race action with the awesome Scuderia Ferrari SF16-H!,Speed Champions,184,7.0,14.0,1,11.0,4.7,14.99
+60145,Buggy,Start your engine and race through the dunes!,City,81,5.0,12.0,0,7.0,4.9,9.99
+21310,Old Fishing Store,Prepare for the ultimate fishing trip!,Ideas,2049,12.0,99.0,2,79.0,5.0,149.99
+75188,Resistance Bomber,Set out on heroic raids with the Resistance Bomber!,Star Wars™,780,9.0,14.0,2,23.0,4.6,109.99
+75186,The Arrowhead,Go head to head with the Empire aboard The Arrowhead!,Star Wars™,775,8.0,14.0,3,5.0,4.8,89.99
+75193,Millennium Falcon™ Microfighter,Play at micro lightspeed with the Millennium Falcon!,Star Wars™,92,6.0,12.0,1,9.0,4.7,9.99
+76104,The Hulkbuster Smash-Up,Bash the ball-shooting gun turret with the Hulkbuster!,Marvel Super Heroes,375,7.0,14.0,1,13.0,4.8,29.99
+31075,Outback Adventures,Head into the wilds with the 3-in-1 Outback Adventures set!,Creator 3-in-1,225,7.0,12.0,1,1.0,4.0,19.99
+72003,Berserker Bomber,Jet off with Macy for a Berserker Bomber battle!,NEXO KNIGHTS™,369,8.0,14.0,2,,,29.99
+75200,Ahch-To Island™ Training,Learn the Jedi way at the Ahch-To Island mountainside hut!,Star Wars™,241,7.0,12.0,1,25.0,4.5,29.99
+70640,S.O.G. Headquarters,Attack the Sons of Garmadon underground dojo in Spinjitzu style!,NINJAGO®,530,8.0,14.0,2,,,39.99
+42032,Compact Tracked Loader,Clear the ground with the LEGO® Technic Compact Track Loader!,Technic,252,8.0,14.0,2,9.0,4.6,19.99
+10856,Mater´s Shed,Join in Mater’s video chat with Lightning McQueen!,DUPLO®,23,2.0,5.0,1,1.0,5.0,19.99
+75176,Resistance Transport Pod™,Jettison to safety in the Resistance Transport Pod!,Star Wars™,294,8.0,14.0,1,14.0,4.7,29.99
+31046,Fast Car,Get ready for the ultra-cool 3-in-1 Fast Car!,Creator 3-in-1,222,7.0,12.0,2,8.0,4.6,19.99
+31081,Modular Skate House,Enjoy awesome activities at the 3-in-1 Modular Skate House!,Creator 3-in-1,422,8.0,12.0,2,4.0,4.8,39.99
+71255,Teen Titans Go!™ Team Pack,Fight off villains with Raven and Beast Boy in the Teen Titans Go!™ Team Pack!,DIMENSIONS™,105,7.0,14.0,1,2.0,4.0,24.99
+75872,Audi R18 e-tron quattro,Refuel and race for victory!,Speed Champions,166,7.0,14.0,2,9.0,4.7,14.99
+21144,The Farm Cottage,Create a flourishing Farm Cottage!,Minecraft™,549,8.0,99.0,1,4.0,4.8,49.99
+17101,BOOST Creative Toolbox,Bring your LEGO® creations to life!,BOOST,847,7.0,12.0,2,63.0,3.4,159.99
+10850,My First Cakes,Watch little bakers serve up cute LEGO® DUPLO® cakes!,DUPLO®,8,1.5,3.0,1,2.0,5.0,4.99
+76076,Captain America Jet Pursuit,Retrieve Captain America's shield from evil Super-Adaptoid!,Marvel Super Heroes,160,6.0,12.0,1,10.0,3.7,19.99
+31074,Rocket Rally Car,Blast off from the start line in the 3-in-1 Rocket Rally Car!,Creator 3-in-1,241,7.0,12.0,1,2.0,5.0,19.99
+60157,Jungle Starter Set,Cruise into the jungle and make a big discovery!,City,88,5.0,12.0,1,12.0,4.9,9.99
+10722,Snake Showdown,Help Kai protect the golden snake staff and stop Lasha!,Juniors,92,4.0,7.0,2,,,14.99
+10847,Number Train,Introduce counting with this easy-to-build train!,DUPLO®,23,1.5,3.0,1,5.0,5.0,19.99
+60173,Mountain Arrest,Fly in and surprise the crooks at their hideout!,City,303,5.0,12.0,2,2.0,4.0,59.99
+10252,Volkswagen Beetle,Head for the beach with the VW Beetle!,Creator Expert,1167,16.0,99.0,2,66.0,4.9,99.99
+41323,Snow Resort Chalet,Stay cozy and warm in the beautiful log cabin!,Friends,402,7.0,12.0,2,4.0,5.0,39.99
+42056,Porsche 911 GT3 RS,Discover the iconic Porsche 911 GT3 RS!,Technic,2704,16.0,99.0,3,143.0,4.7,299.99
+41066,Anna & Kristoff’s Sleigh Adventure,Help Anna and Kristoff bring summer back to Arendelle!,Disney™,174,5.0,12.0,1,11.0,4.0,29.99
+10615,My First Tractor,Learn about colors and fruits with this easy-to-build set!,DUPLO®,12,1.5,5.0,0,3.0,5.0,14.99
+41608,Han Solo™,Be a rogue with a LEGO® BrickHeadz™ construction character featuring Han Solo!,BrickHeadz,141,10.0,99.0,0,1.0,4.0,9.99
+41600,Aquaman™,Dive in with LEGO® BrickHeadz Aquaman™!,BrickHeadz,135,10.0,99.0,0,1.0,4.0,9.99
+21137,The Mountain Cave,Experience the Mountain Cave!,Minecraft™,2863,12.0,99.0,3,11.0,4.5,249.99
+70337,Ultimate Lance,Soar into battle with Ultimate Lance and his jet wings!,NEXO KNIGHTS™,75,7.0,14.0,1,2.0,3.5,9.99
+70605,Misfortune’s Keep,Launch a surprise attack on the sky pirates’ awesome HQ!,NINJAGO®,754,9.0,14.0,2,8.0,4.5,79.99
+10876,Spider-Man & Hulk Adventures,Help Spider-Man and Hulk fight Sandman at Avengers HQ!,DUPLO®,38,2.0,5.0,2,,,29.99
+71348,Harry Potter™ Fun Pack,Continue your wizarding adventures in LEGO® DIMENSIONS™ with your very own Harry Potter™ Fun Pack featuring Hermione Granger.,DIMENSIONS™,64,7.0,14.0,0,1.0,5.0,14.99
+41130,Amusement Park Roller Coaster,,Friends,1124,8.0,12.0,2,17.0,4.8,99.99
+41149,Moana’s Island Adventure,Help Moana find the heart of Te Fiti and fulfill her destiny!,Disney™,205,5.0,12.0,3,2.0,4.5,24.99
+41588,The Joker™,Show off the evil trickster with LEGO® BrickHeadz The Joker™!,BrickHeadz,151,10.0,99.0,1,12.0,4.8,9.99
+75206,Jedi™ and Clone Troopers™ Battle Pack,Take on the Separatists with the Jedi and Clone Troopers!,Star Wars™,102,6.0,12.0,0,3.0,4.0,14.99
+10834,Pizzeria,Enjoy a delicious pizza at the LEGO® DUPLO® Pizzeria!,DUPLO®,57,2.0,5.0,2,2.0,5.0,29.99
+60135,ATV Arrest,Chase down the crook with the ATV!,City,47,5.0,12.0,0,5.0,4.4,6.99
+10709,Orange Creativity Box,Unleash your imagination with the LEGO® Orange Creativity Box!,Classic,60,4.0,99.0,1,3.0,4.7,4.99
+75104,Kylo Ren’s Command Shuttle™,Enter the battle with Kylo Ren’s Command Shuttle™!,Star Wars™,1005,9.0,14.0,2,67.0,4.1,119.99
+10880,T. rex Tower,Help Owen Grady get the escaped T. rex under control in Jurassic World!,DUPLO®,22,2.0,5.0,2,,,29.99
+21140,The Chicken Coop,Enjoy Minecraft™ farming adventures with the Chicken Coop!,Minecraft™,198,7.0,14.0,2,4.0,4.5,19.99
+10220,Volkswagen T1 Camper Van,Road trips will never be the same again with the iconic 1962 Volkswagen T1 Camper Van,Creator Expert,1334,16.0,99.0,3,337.0,4.7,119.99
+41338,Stephanie's Sports Arena,Show off your sporting prowess at the Sports Arena!,Friends,460,6.0,12.0,2,1.0,4.0,44.99
+10720,Police Helicopter Chase,Catch the thief and protect the ATM with the Police Helicopter Chase!,Juniors,63,4.0,7.0,2,,,9.99
+41153,Ariel's Royal Celebration Boat,Sail off to new adventures with Disney Ariel and Eric.,Disney™,380,6.0,12.0,2,3.0,4.3,49.99
+71018,Series 17,"Collect the LEGO® Minifigures, Series 17—A story in every bag!",Minifigures,7,5.0,99.0,0,26.0,4.1,3.99
+10257,Carousel,Discover the fairground’s star attraction with the Carousel!,Creator Expert,2670,16.0,99.0,3,53.0,4.4,199.99
+60119,Ferry,Take the Ferry to your next adventure!,City,301,6.0,12.0,1,14.0,4.2,29.99
+70603,Raid Zeppelin,Fly high with Zane to battle Doubloon’s mighty Raid Zeppelin!,NINJAGO®,294,7.0,14.0,2,8.0,4.0,29.99
+10837,Santa's Winter Holiday,Build your own holiday season fun with Santa and his sleigh!,DUPLO®,45,2.0,5.0,1,5.0,4.2,29.99
+75210,Moloch's Landspeeder™,Go on the hunt with Moloch!,Star Wars™,464,8.0,12.0,1,2.0,4.5,39.99
+40270,Valentine's Bee,Say “I love you” with a LEGO® BrickHeadz™ Valentine's Bee!,BrickHeadz,140,10.0,99.0,1,7.0,4.9,9.99
+10804,Jungle,Fly through the Jungle and make some animal friends!,DUPLO®,86,2.0,5.0,1,2.0,4.5,49.99
+75170,The Phantom,Join the Rebel battle aboard The Phantom!,Star Wars™,269,7.0,12.0,1,25.0,3.8,29.99
+71248,Mission: Impossible™ Level Pack,Hang by a thread with Ethan on a Mission: Impossible™ level!,DIMENSIONS™,76,7.0,14.0,1,6.0,4.5,29.99
+42077,Rally Car,Push the limits with the awesome LEGO® Technic Rally Car!,Technic,1005,10.0,16.0,2,8.0,4.4,109.99
+21126,The Wither,Prepare to battle the wither!,Minecraft™,318,8.0,99.0,2,3.0,5.0,39.99
+75182,Republic Fighter Tank™,Pack a punch with the Republic Fighter Tank!,Star Wars™,305,8.0,14.0,1,27.0,4.6,24.99
+41595,Belle,Add some Disney fairytale romance with a LEGO® BrickHeadz construction character featuring Belle!,BrickHeadz,139,10.0,99.0,1,10.0,4.8,9.99
+21135,The Crafting Box 2.0,Expand your LEGO® Minecraft™ universe!,Minecraft™,717,8.0,99.0,3,1.0,5.0,59.99
+60174,Mountain Police Headquarters,Stop the crooks from breaking their partner out of jail!,City,663,6.0,12.0,2,8.0,4.6,89.99
+75204,Sandspeeder™,Speed into action with the Sandspeeder!,Star Wars™,278,7.0,12.0,1,13.0,4.5,29.99
+2000431,Connections Kit,,SERIOUS PLAY®,2455,6.0,99.0,2,8.0,3.4,754.99
+10816,My First Cars and Trucks,Learn to build and create your own fleet of LEGO® DUPLO® vehicles!,DUPLO®,36,1.5,5.0,1,6.0,5.0,19.99
+10259,Winter Village Station,Head home for the holidays with the Winter Village Station!,Creator Expert,902,12.0,99.0,2,51.0,3.8,79.99
+60139,Mobile Command Center,Stop the crooks before they escape from the mobile jail!,City,374,6.0,12.0,1,10.0,4.0,49.99
+70639,Street Race of Snake Jaguar,Stage a high-speed bike showdown!,NINJAGO®,308,7.0,14.0,2,3.0,4.7,29.99
+70606,Spinjitzu Training,Practice your Spinjitzu skills with Kai and Zane!,THE LEGO® NINJAGO® MOVIE™,109,6.0,14.0,1,11.0,4.7,9.99
+2000414,Starter Kit,,SERIOUS PLAY®,219,6.0,99.0,1,10.0,3.9,36.99
+7280,Straight & Crossroad Plates,Add roads to your LEGO® town!,City,2,5.0,12.0,0,85.0,3.5,14.99
+42065,RC Tracked Racer,Travel over the toughest terrain with the RC Tracked Racer!,Technic,370,9.0,16.0,1,28.0,4.5,99.99
+76070,Mighty Micros: Wonder Woman™ vs. Doomsday™,Dive into battle against Doomsday™ with Wonder Woman™!,DC Comics™ Super Heroes,85,5.0,12.0,1,2.0,5.0,9.99
+70751,Temple of Airjitzu,Join the Ninja at the beautiful Temple of Airjitzu!,NINJAGO®,2028,14.0,99.0,3,61.0,4.8,227.9924
+60125,Volcano Heavy-lift Helicopter,Help out the volcano explorers and bring in the big equipment!,City,1277,8.0,12.0,2,5.0,4.6,149.99
+71343,The Powerpuff Girls™ Fun Pack,"Save the world before bedtime in the LEGO® DIMENSIONS™ multiverse with Buttercup™, the toughest fighter!",DIMENSIONS™,56,7.0,14.0,1,1.0,5.0,14.99
+75114,First Order Stormtrooper™,Prepare for battle against the Resistance!,Star Wars™,81,7.0,14.0,0,10.0,4.7,19.99
+41597,Go Brick Me,Build a LEGO® BrickHeadz version of yourself!,BrickHeadz,708,10.0,99.0,2,13.0,4.8,29.99
+75116,Finn,Practice your warrior skills with Finn!,Star Wars™,98,8.0,14.0,1,1.0,5.0,24.99
+76097,Lex Luthor™ Mech Takedown,Power up for battle against the Lex Luthor™ Mech!,DC Comics™ Super Heroes,406,7.0,14.0,2,5.0,4.8,39.99
