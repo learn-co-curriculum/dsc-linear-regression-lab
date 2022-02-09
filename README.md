@@ -221,6 +221,12 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>Because we are using the <code>.score</code> method of <code>LinearRegression</code>, these are r-squared scores. That means that each of them represents the amount of variance of the target (listing price) that is explained by the model's features (currently just the number of pieces) and parameters (intercept value and coefficient values for the features)</p>
+    <p>In general this seems like a fairly strong model already. It is getting nearly identical performance on training subsets compared to the validation subsets, explaining around 80% of the variance both times</p>
+</details>
+
 ## 2. Build a Model with All Numeric Features
 
 Now that we have established a baseline, it's time to move on to more complex models.
@@ -290,6 +296,14 @@ None
 """
 ```
 
+ <details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>The first issue aligns with the first feature we have, <code>prod_id</code></p>
+    <p>While it is possible that there is some useful information encoded in that number, it seems like it is not really a numeric feature in the traditional sense</p>
+    <p>The scatter plot supports this idea, since it shows almost all prices being represented by a narrow range of ID values</p>
+    <p>The second issue aligns with <code>num_reviews</code> and <code>star_rating</code>. Although these might be useful features in some modeling context, they are not useful for this algorithm because we won't know the number of reviews or the star rating until after the LEGO set is released.</p>
+</details>
+
 Now, create a variable `X_train_second_model`, which is a copy of `X_train_numeric` where those irrelevant columns have been removed:
 
 
@@ -340,6 +354,12 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>Our second model got slightly better scores on the training data, but worse scores on the validation data. This means that it is a worse model overall, since what we care about is the ability to generate prices for future LEGO sets, not the ability to fit well to the known LEGO sets' features</p>
+    <p>It seems like adding in these other features is actually just causing overfitting, rather than improving the model's ability to understand the underlying patterns in the data</p>
+</details>
+
 ## 3. Select the Best Combination of Features
 
 As you likely noted above, adding all relevant numeric features did not actually improve the model performance. Instead, it led to overfitting.
@@ -369,7 +389,7 @@ In a predictive context (we are currently trying to build a model to assign pric
 
 Given that we suspect our model's issues are related to multicollinearity, let's try to narrow down those features. In this case, let's use the p-values assigned to the coefficients of the model.
 
-Looking at the model summary above, ***which features are statistically significant, with p-values above 0.05***? (P-values are labeled **P>|t|** in a StatsModels summary.)
+Looking at the model summary above, ***which features are statistically significant, with p-values below 0.05***? (P-values are labeled **P>|t|** in a StatsModels summary.)
 
 
 ```python
@@ -378,6 +398,11 @@ Looking at the model summary above, ***which features are statistically signific
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p><code>const</code> (the intercept), <code>piece_count</code>, and <code>max_age</code></p>
+</details>
 
 **Important note:** There are many limitations to using coefficient p-values to select features. See [this StackExchange answer](https://stats.stackexchange.com/a/291239) with examples in R for more details. The suggested alternative in that answer, `glmnet`, is a form of *regularization*, which you will learn about later. Another related technique is *dimensionality reduction*, which will also be covered later. However for now you can proceed using just the p-values technique until the more-advanced techniques have been covered.
 
@@ -429,6 +454,11 @@ Interpret the results below. What happened when we removed the features with hig
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>Removing those features led to the best model so far, although the scores are very similar to the baseline</p>
+</details>
 
 ### Selecting Features with `sklearn.feature_selection`
 
@@ -547,6 +577,14 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>The best model uses <code>piece_count</code>, <code>max_age</code>, and <code>difficulty_level</code>. It has a validation score of 0.781578</p>
+    <p>The worst model uses <code>piece_count</code>, <code>min_age</code>, and <code>max_age</code>. It has a validation score of 0.751768</p>
+    <p>This makes sense if we think that <code>min_age</code> and <code>max_age</code> are mostly providing the same information, and that the difference is mainly noise (leading to overfitting), that the best model would only have one of them</p>
+    <p>Overall, feature selection does not seem to matter very much for this dataset + linear regression. So long as we use our most correlated feature (<code>piece_count</code>), the validation score doesn't change very much, regardless of which other features are included.</p>
+</details>
+
 ## 4. Build and Evaluate a Final Predictive Model
 
 In the cell below, create a list `best_features` which contains the names of the best model features based on the findings of the previous step:
@@ -604,6 +642,11 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>This means that for an average LEGO set, this algorithm will be off by about $47. Given that most LEGO sets sell for less than $100, we would definitely want to have a human double-check and adjust these prices rather than just allowing the algorithm to set them</p>
+</details>
+
 ## 5. Interpret the Final Model
 
 Below, we display the coefficients and intercept for the final model:
@@ -625,6 +668,11 @@ Interpret these values below. What is the pricing algorithm you have developed?
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>According to our model, the base price for a LEGO set (the model intercept) is about $9.68. Then for each additional LEGO piece in the set, the price goes up by $0.09 per piece. For every year higher that the maximum age is, the price goes down by about $0.04. Then finally for every increase of 1 in the difficulty level, the price goes up by about $2.04.</p>
+</details>
 
 Before assuming that these coefficients give us inferential insight into past pricing decisions, we should investigate each of the assumptions of linear regression, in order to understand how much our model violates them.
 
@@ -657,6 +705,11 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>We have some outliers that are all over the place, but in general it looks like we have a linear relationship (not violating this assumption)</p>
+</details>
+
 ### Investigating Normality
 
 Now let's check whether the normality assumption holds for our model.
@@ -679,6 +732,11 @@ Are we violating the normality assumption?
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>Our outliers are again causing problems. This is bad enough that we can probably say that we are violating the normality assumption</p>
+</details>
 
 ### Investigating Multicollinearity (Independence Assumption)
 
@@ -703,6 +761,11 @@ Do we have too high of multicollinearity?
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>We are below 5 for all features in the final model, so we don't have too high of multicollinearity</p>
+</details>
 
 ### Investigating Homoscedasticity
 
@@ -729,6 +792,11 @@ None
 """
 ```
 
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>This is not the worst "funnel" shape, although the residuals do seem to differ some based on the predicted price. We are probably violating a strict definition of homoscedasticity.</p>
+</details>
+
 ### Linear Regression Assumptions Conclusion
 
 Given your answers above, how should we interpret our model's coefficients? Do we have a model that can be used for inferential as well as predictive purposes? What might your next steps be?
@@ -740,6 +808,12 @@ Given your answers above, how should we interpret our model's coefficients? Do w
 None
 """
 ```
+
+<details>
+    <summary style="cursor: pointer">Solution (click to reveal)</summary>
+    <p>Our confidence in these coefficients should not be too high, since we are violating or close to violating more than one of the assumptions of linear regression. This really only should be used for predictive purposes.</p>
+    <p>A good next step here would be to start trying to figure out why our outliers behave the way they do. Maybe there is some information we could extract from the text features that are currently not part of the model</p>
+</details>
 
 ## Summary
 
