@@ -401,7 +401,7 @@ None
 
 <details>
     <summary style="cursor: pointer">Solution (click to reveal)</summary>
-    <p><code>const</code> (the intercept), <code>piece_count</code>, and <code>max_age</code></p>
+    <p><code>const</code> (the intercept), <code>piece_count</code>, and <code>min_age</code></p>
 </details>
 
 **Important note:** There are many limitations to using coefficient p-values to select features. See [this StackExchange answer](https://stats.stackexchange.com/a/291239) with examples in R for more details. The suggested alternative in that answer, `glmnet`, is a form of *regularization*, which you will learn about later. Another related technique is *dimensionality reduction*, which will also be covered later. However for now you can proceed using just the p-values technique until the more-advanced techniques have been covered.
