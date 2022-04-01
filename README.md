@@ -332,7 +332,9 @@ ax.set_title("Distribution of LEGO Set Prices");
 ```
 
 
+    
 ![png](index_files/index_12_0.png)
+    
 
 
 ### Requirements
@@ -436,7 +438,9 @@ ax.set_title("Heatmap of Correlation Between Attributes (Including Target)");
 ```
 
 
+    
 ![png](index_files/index_16_0.png)
+    
 
 
 Based on the plot above, which feature is most strongly correlated with the target (`listing_price`)? In other words, which feature has the strongest positive or negative correlation — the correlation with the greatest magnitude?
@@ -483,7 +487,9 @@ ax.set_title("Most Correlated Feature vs. Listing Price");
 ```
 
 
+    
 ![png](index_files/index_22_0.png)
+    
 
 
 Assuming you correctly identified `piece_count` (the number of pieces in the LEGO set) as the most correlated feature, you should have a scatter plot that shows a fairly clear linear relationship between that feature and the target. It looks like we are ready to proceed with making our baseline model without any additional transformation.
@@ -809,7 +815,9 @@ for index, col in enumerate(scatterplot_data.columns):
 ```
 
 
+    
 ![png](index_files/index_41_0.png)
+    
 
 
 ### Feature Selection Using Domain Understanding
@@ -1167,7 +1175,7 @@ None
 
 <details>
     <summary style="cursor: pointer">Solution (click to reveal)</summary>
-    <p><code>const</code> (the intercept), <code>piece_count</code>, and <code>max_age</code></p>
+    <p><code>const</code> (the intercept), <code>piece_count</code>, and <code>min_age</code></p>
 </details>
 
 **Important note:** There are many limitations to using coefficient p-values to select features. See [this StackExchange answer](https://stats.stackexchange.com/a/291239) with examples in R for more details. The suggested alternative in that answer, `glmnet`, is a form of *regularization*, which you will learn about later. Another related technique is *dimensionality reduction*, which will also be covered later. However for now you can proceed using just the p-values technique until the more-advanced techniques have been covered.
@@ -1185,7 +1193,7 @@ significant_features = None
 
 ```python
 # __SOLUTION__
-significant_features = ["piece_count", "max_age"]
+significant_features = ["piece_count", "min_age"]
 ```
 
 Now let's build a model using those significant features only:
@@ -1791,7 +1799,9 @@ ax.legend();
 ```
 
 
+    
 ![png](index_files/index_105_0.png)
+    
 
 
 Are we violating the linearity assumption?
@@ -1831,7 +1841,9 @@ sm.graphics.qqplot(residuals, dist=stats.norm, line='45', fit=True);
 ```
 
 
+    
 ![png](index_files/index_111_0.png)
+    
 
 
 Are we violating the normality assumption?
@@ -1923,7 +1935,9 @@ ax.set_ylabel("Actual - Predicted Value");
 ```
 
 
+    
 ![png](index_files/index_123_0.png)
+    
 
 
 Are we violating the homoscedasticity assumption?
