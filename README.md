@@ -859,10 +859,10 @@ sm.OLS(y_train, sm.add_constant(X_train_second_model)).fit().summary()
   <th>Method:</th>             <td>Least Squares</td>  <th>  F-statistic:       </th> <td>   506.8</td> 
 </tr>
 <tr>
-  <th>Date:</th>             <td>Wed, 24 Mar 2021</td> <th>  Prob (F-statistic):</th> <td>2.40e-183</td>
+  <th>Date:</th>             <td>Thu, 30 Jun 2022</td> <th>  Prob (F-statistic):</th> <td>2.40e-183</td>
 </tr>
 <tr>
-  <th>Time:</th>                 <td>10:50:05</td>     <th>  Log-Likelihood:    </th> <td> -2741.4</td> 
+  <th>Time:</th>                 <td>12:26:58</td>     <th>  Log-Likelihood:    </th> <td> -2741.4</td> 
 </tr>
 <tr>
   <th>No. Observations:</th>      <td>   558</td>      <th>  AIC:               </th> <td>   5493.</td> 
@@ -914,7 +914,7 @@ sm.OLS(y_train, sm.add_constant(X_train_second_model)).fit().summary()
 
 
 
-A condition number of 10-30 indicates multicollinearity, and a condition number above 30 indicates strong multicollinearity. This print-out shows a condition number of `2.77e+03`, i.e. 2770, which is well above 30.
+A condition number of 10-30 indicates multicollinearity, and a condition number above 30 indicates strong multicollinearity. This print-out shows a condition number of `2.85e+03`, i.e. 2770, which is well above 30.
 
 In a predictive context (we are currently trying to build a model to assign prices to future LEGO sets, not a model primarily intended for understanding the relationship between prices and attributes of past LEGO sets), we do not *always* need to be worried when we identify strong multicollinearity. Sometimes there are features that are highly collinear but they also are individually communicating useful information to the model. In this case, however, it seems like strong multicollinearity might be what is causing our second model to have worse performance than the first model.
 
@@ -969,8 +969,8 @@ print("Validation score:", baseline_scores["test_score"].mean())
 ```
 
     Current Model
-    Train score:      0.7788368375081581
-    Validation score: 0.7809488632030983
+    Train score:      0.7869252233899845
+    Validation score: 0.7638761794341223
     
     Second Model
     Train score:      0.7884552982196166
